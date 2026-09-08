@@ -1,0 +1,2 @@
+Model,Final Test Accuracy,Final Test Macro Precision,Final Test Macro Recall,Final Test Macro F1-score
+MobileNetV2 Transfer Learning,0.8614,0.8311,0.8223,0.8259

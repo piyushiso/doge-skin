@@ -1,0 +1,7 @@
+Feature Method,Model,CV Accuracy Mean,CV Accuracy SD,CV Macro Precision Mean,CV Macro Precision SD,CV Macro Recall Mean,CV Macro Recall SD,CV Macro F1 Score Mean,CV Macro F1 Score SD
+CNN Features,Logistic Regression,0.8953,0.0129,0.8772,0.0124,0.8685,0.0154,0.8719,0.0131
+CNN Features,k-NN,0.8397,0.0126,0.8308,0.0179,0.7879,0.0137,0.8012,0.015
+CNN Features,Decision Tree,0.6103,0.0143,0.5618,0.0236,0.5601,0.0225,0.5594,0.0217
+CNN Features,Random Forest,0.8068,0.0054,0.8303,0.0123,0.725,0.0113,0.739,0.0132
+CNN Features,SVM,0.9103,0.0075,0.9089,0.0118,0.8829,0.0089,0.8928,0.0088
+CNN Features,MLP,0.9129,0.0108,0.8989,0.0125,0.8887,0.0139,0.8928,0.0127

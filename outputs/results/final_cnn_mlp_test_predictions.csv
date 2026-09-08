@@ -1,0 +1,434 @@
+split,class,image_path,file_hash,label,actual_class,predicted_class,correct,confidence
+test,Demodicosis,../datasets/feed/test/Demodicosis/scabies_117_png_jpg.rf.ebc7514a3f59282b1514af817433d03b.jpg,0241077fa084001f18af93b34de5d76f,0,Demodicosis,Demodicosis,True,0.9999
+test,Ringworm,../datasets/feed/test/Ringworm/436638693_826239035984778_764987017093970170_n_jpg.rf.f9887b8a564728b3023a81ae1640556c.jpg,027444e0875a59d5d6f8340f7db0ef3b,5,Ringworm,Ringworm,True,1.0
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/pic24_jpg.rf.c640ed1f9e1831ba7e5e9ee3a30abe6c.jpg,037a78dd6c57eb5514728fd84d02ed59,2,Fungal Infections,Fungal Infections,True,0.8281
+test,Dermatitis,../datasets/feed/test/Dermatitis/1000011975_x4_jpg.rf.b16730886fd49f65a47537e42aa446ca.jpg,0381f0b6839f00ab91c7b3fa9ba351e9,1,Dermatitis,Dermatitis,True,0.9997
+test,Hypersensitivity,../datasets/feed/test/Hypersensitivity/B9781416056638000070_f007-023-9781416056638_jpg.rf.b7721b393c210f241ef7216dbd5770d2.jpg,06d5892902ee25ae0ea98ce85794e2ed,4,Hypersensitivity,Hypersensitivity,True,0.6567
+test,Healthy,../datasets/feed/test/Healthy/Image_18_jpg.rf.2c15eba42b1ea5832dc53637999aae56.jpg,07169dae31bed282d4ffac20a448c796,3,Healthy,Healthy,True,0.9995
+test,Demodicosis,../datasets/feed/test/Demodicosis/P22_png_jpg.rf.0c8268907171bddae0f1975f0c66b96e.jpg,0795dc643da94e3ae86a7bc5e6e3bcd4,0,Demodicosis,Demodicosis,True,1.0
+test,Healthy,../datasets/feed/test/Healthy/dogs_146_jpg.rf.1a4aa48c03ba5e0083e685b3779fb358.jpg,085a0e21123c09ea92a526f0ffd507af,3,Healthy,Healthy,True,0.9996
+test,Ringworm,../datasets/feed/test/Ringworm/R11_png_jpg.rf.9ed4a97897a0625204625e76e246fd10.jpg,08ab2ed659265f995924964b1ddd125f,5,Ringworm,Ringworm,True,0.9923
+test,Demodicosis,../datasets/feed/test/Demodicosis/1-11-_jpg.rf.9799cc6fd57c744c9da45a949ed81d75.jpg,0abc0c66e1db3a90ebbcb6df6f0b40fd,0,Demodicosis,Demodicosis,True,0.9926
+test,Healthy,../datasets/feed/test/Healthy/dogs_045_jpg.rf.2c690b4904b2a689c45444f784e081f0.jpg,0b4e2b49d36389d6c9bc7f6a2a5c58d4,3,Healthy,Healthy,True,1.0
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/FUNGAL-INFECTION_004_png_jpg.rf.ad5dd88e9187f0204b44457bfd3990fc.jpg,0bb0aa478bc6888a236b6e5028e03e52,2,Fungal Infections,Fungal Infections,True,0.9991
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/FUNGAL-INFECTION_049_jpg.rf.afc6f6964c0c81a28ba7369058573975.jpg,0c125ce9ddd946775da736405a2aa47b,2,Fungal Infections,Fungal Infections,True,0.9897
+test,Ringworm,../datasets/feed/test/Ringworm/1000010496_x4_jpg.rf.37e66a44c16c2dbb92b94b584b51b497.jpg,0f892bb1a3671855d4d52a2ef530a5ba,5,Ringworm,Ringworm,True,0.9995
+test,Demodicosis,../datasets/feed/test/Demodicosis/1-61-_png_jpg.rf.47d4706c5ab266dc71d3d60f8353ddb1.jpg,0fe07f605047eb2d5614e07fbf56577e,0,Demodicosis,Demodicosis,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/1-13-_jpg.rf.e1607fe04b3ef1e66c7c215eb77c6c72.jpg,0fee52f3aa32bea26eefe122a4afb2c7,0,Demodicosis,Demodicosis,True,0.9999
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/1016_jpg.rf.8f37dc56a30186a415f405c9c670875a.jpg,10319298b2ff15a4e336bbd76d9a57e7,2,Fungal Infections,Fungal Infections,True,0.9471
+test,Dermatitis,../datasets/feed/test/Dermatitis/May-is-allergy-awareness-month-here-at-The-Shot-Spot_01567_jpg.rf.8e3faa223adfdf877a4a4f809b8cef20.jpg,10d155ec311a70ef7a04ec7f0887308a,1,Dermatitis,Dermatitis,True,1.0
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/pic90_jpg.rf.38b066735730fd1744db4b295f241d2b.jpg,1164fe1d5bc60346286bf277f9dcaa82,2,Fungal Infections,Fungal Infections,True,0.8247
+test,Ringworm,../datasets/feed/test/Ringworm/WIN_20240514_17_26_59_Pro_jpg.rf.55be5c398afc9e05ef0c69bbe59e0186.jpg,148eaf9b7bd882eef0313aedaf2d97be,5,Ringworm,Ringworm,True,1.0
+test,Dermatitis,../datasets/feed/test/Dermatitis/hotspot-109-_jpg.rf.e5a277c955157402f873127cf12a0d91.jpg,1490db38d884c8ba59c1be86d0a83bc6,1,Dermatitis,Dermatitis,True,0.9998
+test,Hypersensitivity,../datasets/feed/test/Hypersensitivity/B9781416056638000070_f007-007-9781416056638_jpg.rf.dc62fa02953661a6579c40f70102c09b.jpg,156b9414336fa236c8c6a1d8f85c6938,4,Hypersensitivity,Healthy,False,0.9957
+test,Ringworm,../datasets/feed/test/Ringworm/R25_png_jpg.rf.d7aff216f9e9506d0018d7c13927495c.jpg,15ef56d63940e8b2756c6feb0362f8f7,5,Ringworm,Ringworm,True,0.9993
+test,Demodicosis,../datasets/feed/test/Demodicosis/IMG_5167_jpeg_jpg.rf.9fedce6071303474510fcff77f8c8eab.jpg,1637fe06564849c5e3ef60748154d963,0,Demodicosis,Demodicosis,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/R28_png_jpg.rf.8a785736a076d84f087f87c61a50fa5a.jpg,166f6b72a828eadc4a519b81d80f9c5b,5,Ringworm,Ringworm,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/R2_png_jpg.rf.8fe9dc3a60ec8591a65e9933132f6df7.jpg,17cba8ebb970febc9813beb64b38d42d,5,Ringworm,Ringworm,True,0.9945
+test,Ringworm,../datasets/feed/test/Ringworm/WIN_20240514_17_42_05_Pro_jpg.rf.fdba5f588cfb6974acb6deb1259370be.jpg,17eb24f047a081f324f07834ce081ab9,5,Ringworm,Ringworm,True,0.9996
+test,Healthy,../datasets/feed/test/Healthy/pic41_jpg.rf.da4ec4a5de68124bf1218574953fe7c3.jpg,1897dbe23412b07eaa1648dd2b41a94f,3,Healthy,Healthy,True,0.6497
+test,Dermatitis,../datasets/feed/test/Dermatitis/bac4_png_jpg.rf.2b4b42452d1e90f06a39db78f43c29fe.jpg,19ad7f475ee7784a4fc0e988bb030550,1,Dermatitis,Dermatitis,True,0.8965
+test,Demodicosis,../datasets/feed/test/Demodicosis/IMG_5319_jpeg_jpg.rf.ed6f97f3c707135fff0023dd82cd194e.jpg,1a05daf25ffb826dfd839cb25833a7f5,0,Demodicosis,Demodicosis,True,0.9997
+test,Hypersensitivity,../datasets/feed/test/Hypersensitivity/Hypersensitivity4_png_jpg.rf.20bc0e0541eb1540023e0e6b4c5c84d3.jpg,1a1df0c08bfdc8efc05f0739e328fa06,4,Hypersensitivity,Hypersensitivity,True,0.9992
+test,Hypersensitivity,../datasets/feed/test/Hypersensitivity/1724_jpg.rf.f06d0d11b847d4dd9582cb981c54ed57.jpg,1aaa4dd6e86258bd6b26c6e5f23b7a34,4,Hypersensitivity,Hypersensitivity,True,0.9982
+test,Healthy,../datasets/feed/test/Healthy/pic48_jpg.rf.9c4f974eab2326df16a480078c690d1b.jpg,1af596d8a093c8e2386265422918f752,3,Healthy,Fungal Infections,False,0.996
+test,Ringworm,../datasets/feed/test/Ringworm/436886639_984826669663928_3052914574866382434_n_jpg.rf.203715a6aff86e14225182aa4900dfac.jpg,1c51c49da03baa4cd1064133d72da408,5,Ringworm,Ringworm,True,1.0
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/pic80_jpg.rf.9681f79783fb1e31d5c42dc9310809bd.jpg,1da94788911cc0f6635d65851f5c948c,2,Fungal Infections,Fungal Infections,True,0.5164
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/FUNGAL-INFECTION_063_jpg.rf.764aa11c94d1e4cbb954f08bd34d45cd.jpg,1e4860b4bbcd3fe3aaad0c1ad267af18,2,Fungal Infections,Fungal Infections,True,0.9983
+test,Dermatitis,../datasets/feed/test/Dermatitis/hot-spots-suck_00100_jpg.rf.cfcf59bc6d89baf76ed0d17620214796.jpg,1e6379db8a610b9bd434904e5ca4e7b4,1,Dermatitis,Dermatitis,True,1.0
+test,Dermatitis,../datasets/feed/test/Dermatitis/hotspot-35-_jpg.rf.dae379e4466ef23bc395600463ffb6f8.jpg,1fcc415f65b4739444a41027972760ad,1,Dermatitis,Ringworm,False,0.9326
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/FUNGAL-INFECTION_021_jpg.rf.b01636d61fbd534fbc16393b233cce54.jpg,200bb88db459bb254e058d372d909691,2,Fungal Infections,Fungal Infections,True,0.9988
+test,Ringworm,../datasets/feed/test/Ringworm/WIN_20240514_17_29_49_Pro_jpg.rf.50e6385859f0f52f1d6f0c1c4309fce2.jpg,207a5c8ebe7aeb2af458ee65ad0ac5f9,5,Ringworm,Ringworm,True,1.0
+test,Dermatitis,../datasets/feed/test/Dermatitis/Owners-usually-don-t-get-a-good-vote-of-just-how-big-hotspots_00349_jpg.rf.615dd60fb984ef0194195aed23ea25c9.jpg,21573618f37e0eaf071cedec1709dcc0,1,Dermatitis,Dermatitis,True,0.9998
+test,Dermatitis,../datasets/feed/test/Dermatitis/HOT-SPOT-IN-DOG-HOW-vet-treated-symptom-prevention_-flea-bite-moist-eczema_dog-itching-000504_png_jpg.rf.32c73267a6af2a3df8cdb5dd40848b8f.jpg,21c19159135a1fef4b59f02a8f11293e,1,Dermatitis,Dermatitis,True,1.0
+test,Dermatitis,../datasets/feed/test/Dermatitis/1000010680_x16_jpg.rf.022565ad71fbc7c3f9527a89d399c72a.jpg,22594da683778c267657a2589cbac4c0,1,Dermatitis,Dermatitis,True,0.9354
+test,Demodicosis,../datasets/feed/test/Demodicosis/1-11-_png_jpg.rf.c1b6a7843404f9c2b5737ecbfddb5d59.jpg,225cba9ae0db50d72564c04adb73be42,0,Demodicosis,Demodicosis,True,0.9674
+test,Demodicosis,../datasets/feed/test/Demodicosis/scabies_113_png_jpg.rf.5e5319f35048c5a6f297f117bd6be303.jpg,22f6aa48146c9e9b25fbfee6b680741a,0,Demodicosis,Demodicosis,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/IMG_5200_jpeg_jpg.rf.d91348a314c62ea0e8471910c666539e.jpg,23f56c63b944b3c4f988c793cf5a485a,0,Demodicosis,Demodicosis,True,0.9967
+test,Ringworm,../datasets/feed/test/Ringworm/ringworm-7-_jpg.rf.4241ca2ee03c09ad3842773fbe682b50.jpg,24d2cde4533273698a0ce788daaaabe7,5,Ringworm,Ringworm,True,0.9989
+test,Dermatitis,../datasets/feed/test/Dermatitis/May-is-allergy-awareness-month-here-at-The-Shot-Spot_00064_jpg.rf.5fab1ae96cc6b5a907a967709d336eeb.jpg,24fd607126c37e47807e976f6081c6f6,1,Dermatitis,Dermatitis,True,1.0
+test,Healthy,../datasets/feed/test/Healthy/dogs_021_jpg.rf.f1b30730b70ca2eefeba245fe0e590ba.jpg,25938545feac77b13a0057c1bed1635a,3,Healthy,Healthy,True,1.0
+test,Healthy,../datasets/feed/test/Healthy/images-47_jpg.rf.19077f2e35e19bae8306af23a76cee82.jpg,25b2538ade767d04615a04352389f7d3,3,Healthy,Healthy,True,1.0
+test,Healthy,../datasets/feed/test/Healthy/HEALTHY_031_jpg.rf.a28fdc0fc72b037d0a35e4d30af95a9e.jpg,267e195f80f2a3e8ae8f917853abe9a1,3,Healthy,Healthy,True,0.9893
+test,Ringworm,../datasets/feed/test/Ringworm/NEWR52_jpeg_jpg.rf.726a86789da3ad6a9ba8ddddfffbeeca.jpg,279439e50e1361b8a303d498b73c9317,5,Ringworm,Ringworm,True,0.9953
+test,Ringworm,../datasets/feed/test/Ringworm/1000010496_x4_jpg.rf.470ea124b5779f5887f8746fb58ce7ac.jpg,2884436ea2323b94b978932f27c8fac1,5,Ringworm,Ringworm,True,0.9969
+test,Dermatitis,../datasets/feed/test/Dermatitis/hotspot-105-_jpg.rf.7592aced9502690ea31425f628eef6b2.jpg,2951693c7132a2292e6e78503f9b5bd1,1,Dermatitis,Fungal Infections,False,0.3976
+test,Dermatitis,../datasets/feed/test/Dermatitis/hotspot-5-_jpg.rf.cb92c7583f152fe992fdd53a35e2114f.jpg,2ab4c82b24cf627b0f014b0e00d40545,1,Dermatitis,Dermatitis,True,0.9869
+test,Ringworm,../datasets/feed/test/Ringworm/ringworm-29-_jpg.rf.f7a7ac2a7ec142d4710f5d38dfeb7dd8.jpg,2af57b4fdd68d26f2d77745b6fb249ec,5,Ringworm,Ringworm,True,0.9997
+test,Demodicosis,../datasets/feed/test/Demodicosis/1-41-_png_jpg.rf.630dc877cc5a02321a06c4911d5e8136.jpg,2afef22f2aa384b7901fe279b059c7a1,0,Demodicosis,Demodicosis,True,0.9019
+test,Hypersensitivity,../datasets/feed/test/Hypersensitivity/B9781416056638000070_f007-034-9781416056638_jpg.rf.6d7b037cedf36f3ea1014e4931461b96.jpg,2b03d616b7980e0a76a0ff57a3b9d578,4,Hypersensitivity,Hypersensitivity,True,0.9988
+test,Demodicosis,../datasets/feed/test/Demodicosis/1-11-_png_jpg.rf.9ba3817ce9f7ce031ba37b3f53fd54e1.jpg,2c16369cc2e1793a6b70227c02696f57,0,Demodicosis,Demodicosis,True,0.9999
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/fungal2_jpg.rf.01150f7d26c817e18758dedeb7a63700.jpg,2d7dcd242b6f1352b2b5ff7ebe62dd9e,2,Fungal Infections,Fungal Infections,True,0.9995
+test,Hypersensitivity,../datasets/feed/test/Hypersensitivity/Hypersensitivity_1_jpg.rf.d325b4baf3830183bc4eadc45bbbd23c.jpg,2d85147f3d469d4a0df17724d404c44f,4,Hypersensitivity,Hypersensitivity,True,0.9873
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/Fungal3_png_jpg.rf.a6c24cd69cdd23099bc38e3c1fd5f1a2.jpg,2dfc6dc0de7ad738cdd5b3f16083a7b4,2,Fungal Infections,Demodicosis,False,0.9985
+test,Dermatitis,../datasets/feed/test/Dermatitis/1000010652_x16_jpg.rf.49ca91eb9622ee207a9af19717b70778.jpg,2e64cf0556417fe6af28613519ed6080,1,Dermatitis,Dermatitis,True,0.9998
+test,Ringworm,../datasets/feed/test/Ringworm/ringworm-79-_jpg.rf.7ad29100582ca3bea2d724840274b939.jpg,2e88d513f8cdd62130c5f6532e987b06,5,Ringworm,Ringworm,True,0.9865
+test,Ringworm,../datasets/feed/test/Ringworm/R52_png_jpg.rf.b1780c365284ebc44086570e63489b3e.jpg,2ec6a5941dac7bb407d33a064b9cebb1,5,Ringworm,Ringworm,True,0.9983
+test,Demodicosis,../datasets/feed/test/Demodicosis/scabies_111_png_jpg.rf.402b98af44e2a1b1ed02650ed7616479.jpg,2edd78ae0ed1bfd96e494f26c9cb0384,0,Demodicosis,Demodicosis,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/1-10-_jpg.rf.4cd37faa7c4842dc84c636c58d61b72d.jpg,2ef59995bb59053cbe8d0b01f873c40f,0,Demodicosis,Demodicosis,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/436827116_313204271618259_7494145659042912998_n_jpg.rf.1d158cced59aea5b6e858a7f17d43df5.jpg,2f323a847be8ed6dae7e2c110a7731b4,5,Ringworm,Ringworm,True,1.0
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/pic33_jpg.rf.76b2c815648b1680ee71a9ccb0125f85.jpg,2f63bb338ac8e2a31612f4f652c826a2,2,Fungal Infections,Fungal Infections,True,0.9669
+test,Demodicosis,../datasets/feed/test/Demodicosis/IMG_5241_jpeg_jpg.rf.63fea35d0a45181435d6787740966476.jpg,2f64c0992e13d235025cf3670c8d70e8,0,Demodicosis,Demodicosis,True,1.0
+test,Dermatitis,../datasets/feed/test/Dermatitis/1000010494_x16_jpg.rf.ea6148c3096cad322d093d8c9202b9cd.jpg,2fd09bb3372b36b098f66359677cee35,1,Dermatitis,Dermatitis,True,0.9856
+test,Hypersensitivity,../datasets/feed/test/Hypersensitivity/B9781416056638000070_f007-017-9781416056638_jpg.rf.cb24d3d360d48215ea8fee360ba70b02.jpg,3114af4288d8ae63b9940f82c969428d,4,Hypersensitivity,Healthy,False,0.9889
+test,Ringworm,../datasets/feed/test/Ringworm/80b5eb_799a7e6d4c1444318ee3e4280_jpg.rf.2d5a475c83b217501c63c11dee8450e5.jpg,31750b7fcf3f4b14c997149305238ab4,5,Ringworm,Ringworm,True,0.6405
+test,Ringworm,../datasets/feed/test/Ringworm/ringworm-150-_jpg.rf.4103d0e5a72e7461a5ba338ecb6399cd.jpg,31947a73b1bfa9473e78fa7ca0eca936,5,Ringworm,Ringworm,True,1.0
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/FUNGAL-INFECTION_012_jpg.rf.91e72100b6fc82273d1b396a14cba7f0.jpg,319a8520ff76a0e2b07b8c08e96d0a38,2,Fungal Infections,Fungal Infections,True,0.9998
+test,Dermatitis,../datasets/feed/test/Dermatitis/May-is-allergy-awareness-month-here-at-The-Shot-Spot_00133_jpg.rf.a61b3ad3d2446aca54b2987b6e865c85.jpg,31e7dedf21d05fbf3edeef9dd00b2850,1,Dermatitis,Dermatitis,True,1.0
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/FUNGAL-INFECTION_023_jpg.rf.40904138aa1baeb11b6cb027b0edb323.jpg,33ba51d0e8388b2f18c8827304eab3c5,2,Fungal Infections,Fungal Infections,True,0.9998
+test,Ringworm,../datasets/feed/test/Ringworm/ringworm-35-_jpg.rf.dc2c994240bb24249915addfb32156f2.jpg,33f647c66815483bee2ec4a97bf0a0c4,5,Ringworm,Ringworm,True,1.0
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/FUNGAL-INFECTION_066_jpg.rf.ead75316ce7d95ded378ce1b29d3f22e.jpg,349964ea356625bef3a258c3e1efc6d0,2,Fungal Infections,Fungal Infections,True,0.9998
+test,Demodicosis,../datasets/feed/test/Demodicosis/IMG_5151_jpeg_jpg.rf.39548c5551511b9166af83d95043ecec.jpg,34b97ea89d28617cfb456f57d8e1bcd7,0,Demodicosis,Demodicosis,True,1.0
+test,Dermatitis,../datasets/feed/test/Dermatitis/Bacteria4_png_jpg.rf.5b54ba6bae20ce42f42ad8cd1c2d4f51.jpg,35bab3372dc42b584c5f34c0211581f7,1,Dermatitis,Fungal Infections,False,0.7283
+test,Hypersensitivity,../datasets/feed/test/Hypersensitivity/Hypersensitivity2_png_jpg.rf.d6b2f1ef7b444855ef54b6c14b2d531f.jpg,36db6cf33fd98caa868102689e0b7e56,4,Hypersensitivity,Hypersensitivity,True,0.5055
+test,Healthy,../datasets/feed/test/Healthy/Image_9_jpg.rf.99788b2c41ce48033edb8038f6952bef.jpg,372be945bbd15fe64a6d025f9ed13196,3,Healthy,Healthy,True,0.9998
+test,Demodicosis,../datasets/feed/test/Demodicosis/1-70-_png_jpg.rf.479218d9d91cb72bec34ead89bafbf02.jpg,375b2b1e0773ffb16289e0cfa3467628,0,Demodicosis,Demodicosis,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/436768273_980032929718301_6354120843627540406_n_jpg.rf.6a034996fe80778a280e482b5e23ead2.jpg,37960e1d69f7e2565bbe89e29679442b,5,Ringworm,Ringworm,True,1.0
+test,Dermatitis,../datasets/feed/test/Dermatitis/May-is-allergy-awareness-month-here-at-The-Shot-Spot_00004_jpg.rf.c32144faf07db5acca1f5b49da9a28cf.jpg,379c2504c61de1a1566abab37e12bbfa,1,Dermatitis,Dermatitis,True,1.0
+test,Healthy,../datasets/feed/test/Healthy/Image_12_jpg.rf.f8a60c4a3953ecbe639e1f5568e2ab81.jpg,38058b44c785b42558e7cc5202f74683,3,Healthy,Healthy,True,0.9999
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/Fungal_Image_1_jpg.rf.10aa0e082de888745dbbc1879bbded9a.jpg,382dc2b89d2925dac473e94ded7c3851,2,Fungal Infections,Fungal Infections,True,1.0
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/pic26_jpg.rf.5bb18b28b28cede40a7181aff94ca44c.jpg,389e8b208746f69e8ea62b1b34574ea1,2,Fungal Infections,Fungal Infections,True,0.992
+test,Dermatitis,../datasets/feed/test/Dermatitis/HOT-SPOT-IN-DOG-HOW-vet-treated-symptom-prevention_-flea-bite-moist-eczema_dog-itching-000496_png_jpg.rf.7dd86fbdd40a1c0798e49521f08cc84b.jpg,399dccd56be41d91772e9366a3e28653,1,Dermatitis,Dermatitis,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/P28_png_jpg.rf.704a72ce97a932a28e90233bf8294dc6.jpg,39dc45e60b8873c4b623b81f275344e5,0,Demodicosis,Demodicosis,True,1.0
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/pic88_jpg.rf.4b1707a5f3a36618ea764f43cc1f37ac.jpg,3acf9a6bcd7857c47b2db5c5ea34a161,2,Fungal Infections,Ringworm,False,0.9796
+test,Hypersensitivity,../datasets/feed/test/Hypersensitivity/Hypersensitivity_1_jpg.rf.f415ba6336b66717bcc4f60395263ecb.jpg,3ae85860f2d979fe0b4ba72211859551,4,Hypersensitivity,Fungal Infections,False,0.9843
+test,Demodicosis,../datasets/feed/test/Demodicosis/2024-05-13-164346_4_jpg.rf.244bedcc48aaadb543b3c829c8bf2911.jpg,3b1d57b6cde7727ef5c636b117843347,0,Demodicosis,Demodicosis,True,1.0
+test,Dermatitis,../datasets/feed/test/Dermatitis/Hot-Spot-on-_Chance_-How-to-treat-a-dog-that-you-can_t-touch_-000621_png_jpg.rf.0ce78369ac55af856d2a9c79d0e8c47c.jpg,3bb67d1d4bf0269347b4079030504132,1,Dermatitis,Dermatitis,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/IMG_5183_jpeg_jpg.rf.b1ddb3c8ce329c94dfa374d2a79bf01e.jpg,3d6664e6f27df0359e48e03d49f674ba,0,Demodicosis,Demodicosis,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/P13_png_jpg.rf.b25abf76ec72d81f39a0b6febe60ebc0.jpg,3df15ebe49e3bfc6ac1f036dd5b61d6c,0,Demodicosis,Demodicosis,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/R60_png_jpg.rf.96bf21f49590567865a3b160e46c4574.jpg,3dfb4d24dd4678de24ccb07567065325,5,Ringworm,Ringworm,True,0.9041
+test,Healthy,../datasets/feed/test/Healthy/HEALTHY_030_jpg.rf.8a6d1349a5957995ab9b60f9af4a3036.jpg,3e277546e33cc80842428ea16f4ad042,3,Healthy,Healthy,True,1.0
+test,Hypersensitivity,../datasets/feed/test/Hypersensitivity/hs5_jpg.rf.81cabb67163129aef2b4e2815c2a72fc.jpg,3e41358b3c6be2141b79d2e71a427ee9,4,Hypersensitivity,Hypersensitivity,True,0.876
+test,Ringworm,../datasets/feed/test/Ringworm/WIN_20240514_17_27_21_Pro_jpg.rf.5080f979d2c8d3823aebbc7bf2fe46dc.jpg,408ae15042334b3fce9077e9a582b01a,5,Ringworm,Ringworm,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/1-9-_png_jpg.rf.7a9952752642d50b4318957b2aab8f14.jpg,42048d8807902a8537d7cb6216e3e74e,0,Demodicosis,Demodicosis,True,0.9988
+test,Ringworm,../datasets/feed/test/Ringworm/436768273_980032929718301_6354120843627540406_n_jpg.rf.121aceb80b5010014951578f4b919af9.jpg,436dd9f5ba2691bd3b126c3cd505a871,5,Ringworm,Ringworm,True,1.0
+test,Dermatitis,../datasets/feed/test/Dermatitis/1000010721_x16_jpg.rf.d3bfcecb66b5a40adda22aafd6c99f21.jpg,43d7622eb1f5c40e6d76fcd64890b23e,1,Dermatitis,Dermatitis,True,0.9974
+test,Demodicosis,../datasets/feed/test/Demodicosis/scabies_123_png_jpg.rf.f1157cab2ef9b6722d4315e498e559f6.jpg,440ae993b3fddc7ae769411feba48299,0,Demodicosis,Demodicosis,True,1.0
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/1173_jpg.rf.fe777f5644b92c3ff85b492fd9ab60cc.jpg,441ec5811c60361fa8c8232050743ad5,2,Fungal Infections,Fungal Infections,True,0.986
+test,Healthy,../datasets/feed/test/Healthy/dogs_076_jpg.rf.2ac0c5b9666c69adc8b1ad815ada2b9d.jpg,46452509c51e990a7832aa4852183632,3,Healthy,Healthy,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/436638693_826239035984778_764987017093970170_n_jpg.rf.b5942e0bfc7e9605c9c1eac3a4a74d3a.jpg,471be8fccf4f0ce39b14bd07235b6fbe,5,Ringworm,Ringworm,True,1.0
+test,Dermatitis,../datasets/feed/test/Dermatitis/HOT-SPOT-IN-DOG-HOW-vet-treated-symptom-prevention_-flea-bite-moist-eczema_dog-itching-000498_png_jpg.rf.0cb84762276225d2fb20954245218a39.jpg,47910760b8ea7d60b7127e0229c5dd46,1,Dermatitis,Dermatitis,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/ringworm-33-_jpg.rf.adede751fbc5c91ef4cf09d4626fddef.jpg,481e6eda339d54d75236e7d3cbeaf57c,5,Ringworm,Ringworm,True,0.9989
+test,Healthy,../datasets/feed/test/Healthy/images-24_jpg.rf.08f4e96d0253a9fc5216c2816a90f4a0.jpg,4834071002fd2511c90e4df117bf9714,3,Healthy,Fungal Infections,False,0.9955
+test,Healthy,../datasets/feed/test/Healthy/HEALTHY_011_jpg.rf.5c585c02d91d034ec1a7ff50cb5a15b5.jpg,494a312e418e4f1cfb46ef1b8a9b03e2,3,Healthy,Healthy,True,0.9923
+test,Ringworm,../datasets/feed/test/Ringworm/NEWR20_png_jpg.rf.ce45d4de3845e819173732ca34cc5782.jpg,49771b999b21a1fa599093ef1952c7ea,5,Ringworm,Ringworm,True,1.0
+test,Healthy,../datasets/feed/test/Healthy/dogs_112_jpg.rf.cdc2f406623b62c39f5a155e19406f52.jpg,49a51ea85bc6cfab7bab33001ff81d82,3,Healthy,Healthy,True,0.9997
+test,Dermatitis,../datasets/feed/test/Dermatitis/May-is-allergy-awareness-month-here-at-The-Shot-Spot_00130_jpg.rf.47b349d0d6a08bf3f362a24b5c62f3b6.jpg,4a2123c66a4d40ee94d17e6cd9b4e61d,1,Dermatitis,Dermatitis,True,1.0
+test,Healthy,../datasets/feed/test/Healthy/HEALTHY_028_jpg.rf.ce744333a45fc35ae0dd50b27531273d.jpg,4a4841fd636e45e5e54a3bfde34563ff,3,Healthy,Healthy,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/NEWR45_png_jpg.rf.5e4d54ddcd59e023e8a6b8f1d6d75e9c.jpg,4a5cdd3d4953d46f1362f91b93dc3a5a,5,Ringworm,Ringworm,True,1.0
+test,Dermatitis,../datasets/feed/test/Dermatitis/bac3_jpg.rf.3330be421afa9fded8451710f4de486a.jpg,4b27ae1f2d145f264f69a82d253e07e7,1,Dermatitis,Dermatitis,True,0.9971
+test,Healthy,../datasets/feed/test/Healthy/pic47_jpg.rf.fbb0edd32864af711a4cf2ee5ddfb1b0.jpg,4b7e1cc473d862433ef25e73627ce65e,3,Healthy,Fungal Infections,False,0.9807
+test,Dermatitis,../datasets/feed/test/Dermatitis/Hot-Spot-on-_Chance_-How-to-treat-a-dog-that-you-can_t-touch_-000624_png_jpg.rf.54f1ca4550337a13e019ac53c935664a.jpg,4b9a620bea30030c10d6576a18fea1d8,1,Dermatitis,Dermatitis,True,0.9999
+test,Hypersensitivity,../datasets/feed/test/Hypersensitivity/B9781416056638000070_f007-039-9781416056638_jpg.rf.cd6007a7c741dda3ef13184b833e78fd.jpg,4bc2e83ee3fdbe2507c5b0fffbd8929c,4,Hypersensitivity,Dermatitis,False,0.6698
+test,Ringworm,../datasets/feed/test/Ringworm/436724346_1101576490931453_293184214701696605_n_jpg.rf.9565958e5a476ec5cb9629fca3abff04.jpg,4bd027d48b95b9a3551238b24b568bcf,5,Ringworm,Ringworm,True,1.0
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/FUNGAL-INFECTION_070_jpg.rf.8db35a79b2f77a4e596f7b827db2e879.jpg,4c040ec79b5ff245860377d24c3973da,2,Fungal Infections,Fungal Infections,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/2024-05-13-161645_jpg.rf.dfbd8c587a49b8f017dfbf1a9761dafe.jpg,4c35e91efca2f602b4626a643463d369,0,Demodicosis,Demodicosis,True,0.9996
+test,Dermatitis,../datasets/feed/test/Dermatitis/May-is-allergy-awareness-month-here-at-The-Shot-Spot_00028_jpg.rf.39c50ccbc3df520d2a26935c517dce71.jpg,4d6c7b9b1c65f79c4028196db4044d7e,1,Dermatitis,Dermatitis,True,1.0
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/pic90_jpg.rf.54c1d8e5270a1f4795ca4bb7c3740e94.jpg,4edee061494117490ea85f2588dd38d1,2,Fungal Infections,Fungal Infections,True,0.8932
+test,Demodicosis,../datasets/feed/test/Demodicosis/1-3-_jpg.rf.87c0cb42acd87fb4d2f50f2201cec0f8.jpg,508774b4c5c81d5e37446cbc9d8c2aec,0,Demodicosis,Demodicosis,True,0.9988
+test,Hypersensitivity,../datasets/feed/test/Hypersensitivity/pic7_jpg.rf.cb290e5cbd576baa23158791bf7b830f.jpg,50c6dfeeff7d32f5d719aa84b025de40,4,Hypersensitivity,Hypersensitivity,True,0.9967
+test,Dermatitis,../datasets/feed/test/Dermatitis/1000010725_x16_jpg.rf.358d45c46f596caf8bbb68a6128854c4.jpg,5161b9b006d59551b6db7ffbb9e6eeb8,1,Dermatitis,Dermatitis,True,0.9998
+test,Demodicosis,../datasets/feed/test/Demodicosis/IMG_5314_jpeg_jpg.rf.4f059513805fef3e6b04c00e6c523a91.jpg,518fea200c95f04fc72c7d0e067a73bd,0,Demodicosis,Demodicosis,True,0.9999
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/fungal3_jpg.rf.8ccabd0ff84a3e88381f1e86d1810408.jpg,51c165eff5371404ae5fc31228c7720b,2,Fungal Infections,Demodicosis,False,0.5536
+test,Ringworm,../datasets/feed/test/Ringworm/R2_png_jpg.rf.6072c9dfcb53be6f533ca3511f1748a0.jpg,51c8f46442111eaf4a96eee88eaa6ea1,5,Ringworm,Ringworm,True,0.9997
+test,Dermatitis,../datasets/feed/test/Dermatitis/May-is-allergy-awareness-month-here-at-The-Shot-Spot_01453_jpg.rf.ea8f80519d77602e24b66c3e21978f88.jpg,51dae71fab2949fa6d4520c818e11ce2,1,Dermatitis,Dermatitis,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/2024-05-13-133458_1_jpg.rf.4c6cc16a3b5d12a392d0f48f1f528a26.jpg,51f8c07ae2e7ddcc50526dd10a10126f,0,Demodicosis,Demodicosis,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/1-67-_png_jpg.rf.e574073e4ad35fde3880401bd415eeb3.jpg,520508f3dce0e2214f932cc30791a451,0,Demodicosis,Demodicosis,True,0.9999
+test,Healthy,../datasets/feed/test/Healthy/images-15_jpg.rf.3f747c364fec0a6b77f4c3993e2c3e23.jpg,5259a0bbef100a6e6258930bd7ddb662,3,Healthy,Healthy,True,0.9996
+test,Healthy,../datasets/feed/test/Healthy/Image_14_jpg.rf.94d534a9ccc1d529bfe6f86f4ec802c3.jpg,52682b41a70880d10c72b9cb775bee7a,3,Healthy,Healthy,True,1.0
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/Fungal_Image_2_jpg.rf.ecb97d36e52ba6692d9b15930be42b47.jpg,52a39cfa449fae31c1cc1b0c89701392,2,Fungal Infections,Fungal Infections,True,0.9965
+test,Demodicosis,../datasets/feed/test/Demodicosis/2024-05-13-163616_jpg.rf.ab01c49f2e35f5d3fa570b0008fc0b1c.jpg,53012317ac878caf94319f45be4a8ef1,0,Demodicosis,Demodicosis,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/IMG_5313_jpeg_jpg.rf.62db176c0bea199c1f35f17f53de3ce2.jpg,5317a818ab1f2ba5ebd4a3210ae8f806,0,Demodicosis,Demodicosis,True,0.9953
+test,Demodicosis,../datasets/feed/test/Demodicosis/1-3-_jpg.rf.6e2ab527970a29a42ffb50b571404cf6.jpg,535b41e60689bd6afb4dc89a5daf55c6,0,Demodicosis,Demodicosis,True,0.9312
+test,Healthy,../datasets/feed/test/Healthy/HEALTHY_032_jpg.rf.d3c1a8d9dc983a8a23f3ea7d87b67d40.jpg,5399c2691512a23d06243c44a794eb09,3,Healthy,Healthy,True,0.9864
+test,Demodicosis,../datasets/feed/test/Demodicosis/1-17-_png_jpg.rf.39cbc79b1b562dbc08f2c1781fe81179.jpg,53bfe7b5875a0317084cdc6915545904,0,Demodicosis,Demodicosis,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/P36_png_jpg.rf.0aa7ff518d934944554353efc7042dfb.jpg,54bf3057f0cdefb7bea67467782cbfed,0,Demodicosis,Demodicosis,True,1.0
+test,Hypersensitivity,../datasets/feed/test/Hypersensitivity/hs5_jpg.rf.0fb7d2afbdcdc610abfc65bfa089d818.jpg,54d12d2161e95abd9158c809b2eaa399,4,Hypersensitivity,Hypersensitivity,True,0.9993
+test,Healthy,../datasets/feed/test/Healthy/pic39_jpg.rf.10e80391e830e30e09ff370ba29a1ebc.jpg,561c3ebc829098964b8e491124f1cb54,3,Healthy,Healthy,True,0.9997
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/FUNGAL-INFECTION_068_jpg.rf.7d762b073c3274ea2ac2df5c3c7b79fb.jpg,5625d0523af5a7c9cf73459cd78cfd97,2,Fungal Infections,Fungal Infections,True,0.7733
+test,Healthy,../datasets/feed/test/Healthy/075_jpg.rf.f10d5301e05f89372e15d834b4ed7cee.jpg,579a30ea5abc344e2cb40e691d107d1b,3,Healthy,Healthy,True,0.9958
+test,Demodicosis,../datasets/feed/test/Demodicosis/2024-05-13-161952_jpg.rf.1c9a08f5f8c899c037a68e612e1f68c7.jpg,57f64161a107cb73c24890c72748cd7d,0,Demodicosis,Demodicosis,True,1.0
+test,Healthy,../datasets/feed/test/Healthy/HEALTHY_012_jpg.rf.869fe4f78f2e421a6642639f06174e4c.jpg,583c27f1224438cce6d9870d02a99405,3,Healthy,Healthy,True,0.999
+test,Demodicosis,../datasets/feed/test/Demodicosis/IMG_5298_jpeg_jpg.rf.fa5dab9d1c16d803dfd5cb65d96a067a.jpg,5878127077542d8017b5c72455ff086e,0,Demodicosis,Demodicosis,True,0.9659
+test,Ringworm,../datasets/feed/test/Ringworm/NEWR33_png_jpg.rf.5064d1d4750be97357d1c36c56cf394e.jpg,59cec8f0aac099364083c89b9b74e2e7,5,Ringworm,Ringworm,True,1.0
+test,Hypersensitivity,../datasets/feed/test/Hypersensitivity/B9781416056638000070_f007-033-9781416056638_jpg.rf.19592f8c79528d8a7cb42795eea3c6fd.jpg,59d6b3ef82a1e0ed9d328ea50bbb7bde,4,Hypersensitivity,Healthy,False,0.5928
+test,Dermatitis,../datasets/feed/test/Dermatitis/1000010648_x16_jpg.rf.ac9d9b488cddf942639fd11874d7b269.jpg,5b2a0e0169c94342c4bd0d5e28ccdec2,1,Dermatitis,Dermatitis,True,0.9999
+test,Demodicosis,../datasets/feed/test/Demodicosis/P37_png_jpg.rf.a5fb5cefd332de69f346e4b1f25a6629.jpg,5b339c3852e81cfa7abdf51b1c89477c,0,Demodicosis,Demodicosis,True,1.0
+test,Dermatitis,../datasets/feed/test/Dermatitis/1000010626_x4_jpg.rf.dd018753531153596ff7da1edd7a61ac.jpg,5b4892be6c9d85491e0056e988f421f4,1,Dermatitis,Dermatitis,True,0.9835
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/Fungal4_png_jpg.rf.7e204498c2de7a5dc632344fe5a6cc85.jpg,5c6c24ff486c951b3d7950b58300d0f8,2,Fungal Infections,Fungal Infections,True,0.9998
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/1776_jpg.rf.6074ee89ea682012ddd028a4e75f7b2b.jpg,5c81542dc43fa84ba34c6884ed1d9a71,2,Fungal Infections,Fungal Infections,True,0.9909
+test,Dermatitis,../datasets/feed/test/Dermatitis/1516253873174_x4_jpg.rf.2b20eb4b044f4f9906809a2e09a0bf08.jpg,5db2636bc1cd8ba173abbd50303a6336,1,Dermatitis,Dermatitis,True,0.9876
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/Fungal_Image_4_jpg.rf.bda35e23bfd95285556f61f9bdbd1592.jpg,5e314202f8d4ea54979392d8dc7083d2,2,Fungal Infections,Fungal Infections,True,0.8384
+test,Healthy,../datasets/feed/test/Healthy/dogs_121_jpg.rf.0f73dac4b13731485aca8d860ef80886.jpg,5ed48fecc04686e507493e2e6f9f7157,3,Healthy,Healthy,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/WIN_20240514_17_25_32_Pro_jpg.rf.6bf96b1bddccf8a8388c11e209f4e668.jpg,5ee15857f006327f451d57eea955ee8c,5,Ringworm,Ringworm,True,0.9999
+test,Demodicosis,../datasets/feed/test/Demodicosis/2024-05-13-162638_jpg.rf.dba67d5f0e7d8b08e310d516f6e57fe6.jpg,5f00e52852599f551c67dd72b86051db,0,Demodicosis,Demodicosis,True,1.0
+test,Dermatitis,../datasets/feed/test/Dermatitis/May-is-allergy-awareness-month-here-at-The-Shot-Spot_01972_jpg.rf.ddad1e401d21fd680baa4df32e803fc0.jpg,5f06e817ca690495cc9d292ac4074893,1,Dermatitis,Dermatitis,True,1.0
+test,Healthy,../datasets/feed/test/Healthy/images-52_jpg.rf.b171881528ac3967f149447424b887c7.jpg,5f53ce4c64b98e1ed8e4577a018488d3,3,Healthy,Healthy,True,0.9997
+test,Ringworm,../datasets/feed/test/Ringworm/WIN_20240514_17_37_15_Pro_jpg.rf.63b1f0a32f3b00991f7b6f4d9f418f3c.jpg,6034cad32866026558dc98bdca2fc976,5,Ringworm,Ringworm,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/R9_png_jpg.rf.451c4f636d87a3ce04ac2ac702b66740.jpg,6108a80a936190152a3551bb8f7e286d,5,Ringworm,Ringworm,True,0.999
+test,Healthy,../datasets/feed/test/Healthy/dogs_275_jpg.rf.2d05b81c85ad47c04f609a9555063ccc.jpg,614364a7c55f6e47f6b3aeecbb2c11a4,3,Healthy,Healthy,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/436685073_799772981646313_4606726835859676318_n_jpg.rf.939eecbd5ab17556cca103dc01a3214e.jpg,61544d84f12807dc77e902e32221810a,5,Ringworm,Ringworm,True,1.0
+test,Dermatitis,../datasets/feed/test/Dermatitis/hotspot-52-_jpg.rf.e66a84a106557d4dcf2311b4b7ece2f0.jpg,62c9469e9920dbf84517d5ba837bfe56,1,Dermatitis,Dermatitis,True,0.9587
+test,Ringworm,../datasets/feed/test/Ringworm/69869142_2813720881974689_7556977064478244864_n_jpg.rf.cde7f7e84486eaee7eb96551ebe6aca3.jpg,62f7c665fcf154f55858be76756e570a,5,Ringworm,Ringworm,True,0.9929
+test,Dermatitis,../datasets/feed/test/Dermatitis/HOT-SPOT-IN-DOG-HOW-vet-treated-symptom-prevention_-flea-bite-moist-eczema_dog-itching-000483_png_jpg.rf.5027f0f14f87bd0a05c277d1ebb2383d.jpg,637fcad20661338d10238bf325895a3b,1,Dermatitis,Dermatitis,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/2024-05-13-164346_4_jpg.rf.1c453d11932af1de8e29cfc39fe63799.jpg,63df7a12b025268bfeba8064b74c9910,0,Demodicosis,Demodicosis,True,1.0
+test,Dermatitis,../datasets/feed/test/Dermatitis/1000010761_x4_jpg.rf.ae6b60e043c4de83189d7664f69ba183.jpg,64258b0d324a4bf9648a8bbe865e227f,1,Dermatitis,Dermatitis,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/IMG_5178_jpeg_jpg.rf.0ce91e7de181050285b871b19bee5bd7.jpg,642791f815d5c144b64e3d89573ffa6a,0,Demodicosis,Demodicosis,True,1.0
+test,Healthy,../datasets/feed/test/Healthy/Image_22_jpg.rf.bd35a68f28506c451023ce4153ee961a.jpg,64509609c8430881ac5f5ecdecb391ab,3,Healthy,Healthy,True,1.0
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/Fungal_Image_1_jpg.rf.090ab311e913d1209de8b7a79041a284.jpg,646bd2bf7eeae2bf1434f88a49c7019c,2,Fungal Infections,Fungal Infections,True,0.9999
+test,Healthy,../datasets/feed/test/Healthy/Image_27_jpg.rf.f7d749c597233a54e0e183dec5c67b46.jpg,64acd429f8c920c8e4d94bb1b81f6838,3,Healthy,Healthy,True,0.9995
+test,Ringworm,../datasets/feed/test/Ringworm/Day-4-of-ringworm-treatment_00171_jpg.rf.525088f0daea4df012d00b105a7e17f6.jpg,64fe50565ad72f131532029cc3997d51,5,Ringworm,Ringworm,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/IMG_5195_jpeg_jpg.rf.3507757819d0b3791e101d7aacffeade.jpg,6503b2500d4e0f027576ee32483a7f63,0,Demodicosis,Demodicosis,True,0.9997
+test,Healthy,../datasets/feed/test/Healthy/dogs_060_jpg.rf.35c82b8a0be6d9ba5386ba3f31449bc5.jpg,65a0a3536e4e2dc5348856e6f5a06295,3,Healthy,Healthy,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/scabies_132_png_jpg.rf.124aeed1a5834bd034efb2127124e62d.jpg,65d13ade8a98a333a6bb83830c3f9ce7,0,Demodicosis,Demodicosis,True,1.0
+test,Dermatitis,../datasets/feed/test/Dermatitis/HOT-SPOT-IN-DOG-HOW-vet-treated-symptom-prevention_-flea-bite-moist-eczema_dog-itching-000480_png_jpg.rf.4838dbe4435d03f1f1cbcf60915dca8f.jpg,67280adff76d8e2710fcefbff1207eb6,1,Dermatitis,Dermatitis,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/ringworm-138-_jpg.rf.1c4c359a265e92fc44d352c23dc0dae5.jpg,67cb8080bf9f09476f2e514899ae6c41,5,Ringworm,Ringworm,True,0.9953
+test,Healthy,../datasets/feed/test/Healthy/dogs_163_jpg.rf.c5dec32a22b63d69c9953ed43b9e8cff.jpg,67d4da7806d7371ea6d46f0e30aa780d,3,Healthy,Healthy,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/NEWR57_jpeg_jpg.rf.13d49a479a8a88d7f47a380b9e9adeaf.jpg,683f11165f9c3e95803a498a54d2c6a8,5,Ringworm,Ringworm,True,1.0
+test,Dermatitis,../datasets/feed/test/Dermatitis/HOT-SPOT-IN-DOG-HOW-vet-treated-symptom-prevention_-flea-bite-moist-eczema_dog-itching-000483_png_jpg.rf.a2e0488510a17cac79584f1c232c3134.jpg,68445953083ffcc4ad6442c3d7a6e51f,1,Dermatitis,Dermatitis,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/NEWR32_png_jpg.rf.310f7179519ee6af9ed3dffd5b4d9f8d.jpg,686045ee1c9bd783e9d005aebf60880e,5,Ringworm,Ringworm,True,1.0
+test,Healthy,../datasets/feed/test/Healthy/HEALTHY_024_jpg.rf.a48896b653c5e1a66c07dc934d253dd5.jpg,69b3df4a0c0512a13f9ef68108f433c4,3,Healthy,Healthy,True,0.835
+test,Demodicosis,../datasets/feed/test/Demodicosis/scabies_129_png_jpg.rf.f23f03ecbcba69cf3aefde56ddd8ea19.jpg,6a5f19a4273b32acf68f66e15d7150b3,0,Demodicosis,Demodicosis,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/WIN_20240514_17_25_32_Pro_jpg.rf.9ba63b6c4c5109cb9d821fab6aba2232.jpg,6a7fa97fde0e6ef86548d98ffed702c5,5,Ringworm,Ringworm,True,1.0
+test,Hypersensitivity,../datasets/feed/test/Hypersensitivity/B9781416056638000070_f007-005-9781416056638_jpg.rf.ec4cce96c277c0b63fe300543074dd3a.jpg,6b20b0deb594e278676bfb0c89ec2f1e,4,Hypersensitivity,Healthy,False,0.9745
+test,Demodicosis,../datasets/feed/test/Demodicosis/1-34-_png_jpg.rf.b548b827e8c9fc580b97e17aa7975e87.jpg,6b73dc2e6c3e0ce96dd31aee43129b56,0,Demodicosis,Demodicosis,True,1.0
+test,Dermatitis,../datasets/feed/test/Dermatitis/1000010673_x16_jpg.rf.fa6dbd65df4998a3ae78df33e6de29f0.jpg,6bbdf2c67f7925e50285253214a699af,1,Dermatitis,Dermatitis,True,0.994
+test,Healthy,../datasets/feed/test/Healthy/HEALTHY_015_jpg.rf.7da3c9911e241224aa456c35d5bc674f.jpg,6bc766c08df0a2519a103020ffc4e69c,3,Healthy,Healthy,True,0.9999
+test,Ringworm,../datasets/feed/test/Ringworm/ringworm-31-_jpg.rf.baf61a1b994f0bc990393add9cf98fef.jpg,6bef06ec79eb96c2a0c5265476a06505,5,Ringworm,Ringworm,True,1.0
+test,Dermatitis,../datasets/feed/test/Dermatitis/Hot-Spot-on-_Chance_-How-to-treat-a-dog-that-you-can_t-touch_-000620_png_jpg.rf.e53c6791264aad95e10da6c26845525d.jpg,6c3690da3199aa0831978d465e90bc46,1,Dermatitis,Dermatitis,True,1.0
+test,Healthy,../datasets/feed/test/Healthy/dogs_052_jpg.rf.04aa4a9a5545109e0f888f1f1c336dd3.jpg,6ccc762acf3648e1416bfd036d62e223,3,Healthy,Healthy,True,0.9999
+test,Healthy,../datasets/feed/test/Healthy/dogs_211_jpg.rf.a3c6aa6d8d70dee72b8c1a719881b200.jpg,6cf316947e425144eed489d1c6a6ebfe,3,Healthy,Healthy,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/436859036_407429032244109_5180510937797219633_n_jpg.rf.dc9167c0731111bfa5bfee795aff2a39.jpg,6d7928517a0c44b83fe0c10844a8678f,5,Ringworm,Ringworm,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/2024-05-13-164224_3_jpg.rf.b890a337fc4c50bfd5ffcd0e55dd7388.jpg,6e41e624f819f8bd315835c82a672df7,0,Demodicosis,Demodicosis,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/P18_png_jpg.rf.2537177e4b4be059ead317dce2e9ae47.jpg,6e5c0ece073c1da8409b3f2c1a90a03f,0,Demodicosis,Demodicosis,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/ringworm-122-_jpg.rf.987e25c262bbeec15789beca3840d07e.jpg,6eccee901f4e8be598ee9246ed88cdce,5,Ringworm,Ringworm,True,1.0
+test,Healthy,../datasets/feed/test/Healthy/Image_12_jpg.rf.294aff36de7f451b0b2b3b21a7f033fd.jpg,6ff16bfae299671f78fdc5e08de29cb0,3,Healthy,Healthy,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/436788724_2640165772801792_3956631987323566222_n_jpg.rf.e0e3dafabaad4333c15c133b64669d5a.jpg,703e72de2f4c444fe56e48e9b25d28a3,5,Ringworm,Ringworm,True,1.0
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/1739_jpg.rf.1f47c042d2728e57c205314f57adaebd.jpg,70408d36321b30ac582c8d70d4d26254,2,Fungal Infections,Hypersensitivity,False,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/ringworm-21-_jpg.rf.97c36f9567318c0f93793417910477e1.jpg,70c6c3ea08f9732581e6e636b8f94e44,5,Ringworm,Ringworm,True,0.9983
+test,Dermatitis,../datasets/feed/test/Dermatitis/Hot-Spot-on-_Chance_-How-to-treat-a-dog-that-you-can_t-touch_-000619_png_jpg.rf.d53b4fa5bab2311ea83e3cb42d4fe9fa.jpg,70d3e08c4e4a938e386be679a61638f2,1,Dermatitis,Dermatitis,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/1000010566_x16_jpg.rf.c3d09bb07234f50bce594366bdac66ae.jpg,70d4646eadd26e8522f7e9b9ebe3c617,5,Ringworm,Ringworm,True,0.9898
+test,Hypersensitivity,../datasets/feed/test/Hypersensitivity/Hypersensitivity5_png_jpg.rf.e2900f9646e6a88183952b96e841628f.jpg,723ceb357c2580b1865e3d7d070b975d,4,Hypersensitivity,Hypersensitivity,True,0.998
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/1577_jpg.rf.d717ef19ad2d510ce9d48e9f9919e864.jpg,72aeaf018862a41cbe206c4af39ff08e,2,Fungal Infections,Fungal Infections,True,0.8971
+test,Ringworm,../datasets/feed/test/Ringworm/WIN_20240514_17_41_29_Pro_jpg.rf.5a03d8726b09e446e1db2e8debf20e03.jpg,74990fc8d2ce636a611158db2b2f77dd,5,Ringworm,Ringworm,True,1.0
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/1555_jpg.rf.6ef27443d168571df16e5b753af51dc6.jpg,750b8c0c7eaacc4b11c323c7177d81e3,2,Fungal Infections,Fungal Infections,True,0.996
+test,Dermatitis,../datasets/feed/test/Dermatitis/HOT-SPOT-IN-DOG-HOW-vet-treated-symptom-prevention_-flea-bite-moist-eczema_dog-itching-000151_png_jpg.rf.e2d0eec8ccb98e6664e69b78acd03c5e.jpg,7510a56b16209a3c792b7fa75adcc4f0,1,Dermatitis,Dermatitis,True,0.9998
+test,Demodicosis,../datasets/feed/test/Demodicosis/2024-05-13-164346_4_jpg.rf.ee7b183d25cf28748e859a0c4818851b.jpg,75cfbe4f81d9cff20f87b01022958b56,0,Demodicosis,Demodicosis,True,0.9999
+test,Ringworm,../datasets/feed/test/Ringworm/436627664_402183386034908_3493737909200169023_n_jpg.rf.b5272f6288bd2a1c77ef69fba03bd782.jpg,75faed8f4797e6335c742d470a59b839,5,Ringworm,Ringworm,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/IMG_5302_jpeg_jpg.rf.fa1ae6a660456f1c0518d027b1010547.jpg,7682df19895a028655d421f731041235,0,Demodicosis,Demodicosis,True,0.9999
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/1739_jpg.rf.726728b9354e233496290fa761058f36.jpg,79ddaec7132fd3cdcfd4888eec6155b8,2,Fungal Infections,Hypersensitivity,False,0.9848
+test,Demodicosis,../datasets/feed/test/Demodicosis/D116_png_jpg.rf.01d46996ef7e83268238303c2b9978af.jpg,7a1fd28cab9eab349e26c7a3585cd181,0,Demodicosis,Ringworm,False,0.9916
+test,Ringworm,../datasets/feed/test/Ringworm/ringworm-131-_jpg.rf.4a8a4e06814c480d43f3a135d4cda90e.jpg,7a27eb7e515c01f86d3fab71f43e8e4e,5,Ringworm,Ringworm,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/scabies_118_png_jpg.rf.3cb85ebdd9648ffe76ee87600445a5c4.jpg,7af5bb286db34e6e7099cf310e897f9c,0,Demodicosis,Demodicosis,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/NEWR30_png_jpg.rf.004b1f8c99420f684725214fe3d63c44.jpg,7b2b663e076ddb82b7e7c176a0b953e2,5,Ringworm,Ringworm,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/DB588124-89D4-4F45-A2F8-5F569611D1E7_jpeg_jpg.rf.2e23282f1a5d383b985f54108285f390.jpg,7b96cac967cf8ebd75f3a5a197a57a54,5,Ringworm,Ringworm,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/WIN_20240514_17_29_02_Pro_jpg.rf.daac53f51418a6fe0465e9333dff63a7.jpg,7c5ebd38396f0c3b0805e771451ca996,5,Ringworm,Ringworm,True,0.6087
+test,Ringworm,../datasets/feed/test/Ringworm/90756CC4-0872-4328-B777-FABEAFABD5EF_jpeg_jpg.rf.06498e4ac3327e80d2697e37e60a8a49.jpg,7c9e5044d476ead07c210853a0e5b0e7,5,Ringworm,Ringworm,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/R28_png_jpg.rf.fbe00de902b48ac981c03e3c77417644.jpg,7d97d787c2b4becfe77476ac3e049ace,5,Ringworm,Ringworm,True,0.998
+test,Healthy,../datasets/feed/test/Healthy/shutterstock_31893043-1_jpg.rf.ae090dda4d7a40e0e3688d30fd143d88.jpg,7deab378bedd0b1034bcc733a1ba8e73,3,Healthy,Healthy,True,0.9998
+test,Ringworm,../datasets/feed/test/Ringworm/ringworm-18-_jpg.rf.3bce7ba9aef3f07d299600f266bf9c31.jpg,7e6fb7febb1a967e2d547b1552b56209,5,Ringworm,Ringworm,True,0.9977
+test,Ringworm,../datasets/feed/test/Ringworm/436639986_413245831496612_2113964065260756871_n_jpg.rf.af20942a9b650ac72f8675e5c996d28a.jpg,7eb8b970153461270af54427ec8cd0fe,5,Ringworm,Ringworm,True,1.0
+test,Healthy,../datasets/feed/test/Healthy/dogs_020_jpg.rf.00066c546bd8cb0262c715147b061dc5.jpg,7edf074ca94a452e98b530315db9b4ea,3,Healthy,Healthy,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/1-28-_png_jpg.rf.554549a73b8161adea0e6e77ab4c8148.jpg,7f248df84dccad50f4ca1b9ef518b5cb,0,Demodicosis,Demodicosis,True,0.9998
+test,Healthy,../datasets/feed/test/Healthy/Image_3_jpg.rf.a54093384d03171e8f536b6167f55dd8.jpg,7feabe2473f81d1393ffff799560d59e,3,Healthy,Healthy,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/1-24-_png_jpg.rf.65a1621038afa97de3b9f24d1cf9f4e4.jpg,8085d924495554f9bc1ff2e064872370,0,Demodicosis,Demodicosis,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/NEWR13_jpeg_jpg.rf.ae9330e998541d6e69dd20ceaf8ffc25.jpg,8157a763b5f7a4090786fde8ffe3a201,5,Ringworm,Ringworm,True,1.0
+test,Hypersensitivity,../datasets/feed/test/Hypersensitivity/hs2_jpg.rf.7d7c5fe96ceb406b93ac2713b5ef79b4.jpg,82f85d2ed36d0beb0d5bb87c442477c0,4,Hypersensitivity,Hypersensitivity,True,0.9996
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/FUNGAL-INFECTION_020_jpg.rf.2dfa01e5fac8efee69784eb75618e8f6.jpg,83363b3b759a2bba430d0979af153524,2,Fungal Infections,Fungal Infections,True,0.9719
+test,Ringworm,../datasets/feed/test/Ringworm/1000010696_x4_jpg.rf.0b02a58526f2a868949552a8bfbde719.jpg,83b8a1e4b212c53d1966bd6a7fbe1291,5,Ringworm,Ringworm,True,0.9945
+test,Dermatitis,../datasets/feed/test/Dermatitis/1000010536_x4_jpg.rf.a7cad2e3b94215381440871281245960.jpg,8476fbc73a24361b711af290a8dd58de,1,Dermatitis,Dermatitis,True,0.851
+test,Healthy,../datasets/feed/test/Healthy/26_jpg.rf.f16e845b0a00d04dca0434116d76281c.jpg,8532f9172855b4872491b49c3304a269,3,Healthy,Healthy,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/IMG_5164_jpeg_jpg.rf.ab63d49ffaeddcc29bc37bb4dd8d666a.jpg,856b82685732b2b3693b7681e7b01e6f,0,Demodicosis,Demodicosis,True,1.0
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/pic89_jpg.rf.17c042d3a83f90806a34919d8d3a30d4.jpg,8724c61c1c1f45d829a4b503e48919ad,2,Fungal Infections,Fungal Infections,True,0.9408
+test,Healthy,../datasets/feed/test/Healthy/images-19_jpg.rf.16adea747bca665307505ddd97824d4a.jpg,877c916bcd5d51e0bcac4e11b3d0c94d,3,Healthy,Healthy,True,1.0
+test,Healthy,../datasets/feed/test/Healthy/dogs_119_jpg.rf.c80c17765ea9f9f1105d5eb5206112e3.jpg,87d944e7a9ea11a0ff0c6afd295d35f6,3,Healthy,Healthy,True,0.9998
+test,Demodicosis,../datasets/feed/test/Demodicosis/IMG_5286_jpeg_jpg.rf.0ab0edd978f4f1d9216aedacb62bc109.jpg,87f35ff8edb5024d2c54e7fc17457433,0,Demodicosis,Demodicosis,True,1.0
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/FUNGAL-INFECTION_062_jpg.rf.fcd209738ba1349da4c01ec38133950a.jpg,88142466d7ec1a14c7894f42bdcb55e5,2,Fungal Infections,Fungal Infections,True,0.9979
+test,Ringworm,../datasets/feed/test/Ringworm/ringworm-121-_jpg.rf.6468a03ec2fe573cb61d043afdcc24e6.jpg,886eb9fbcbcf5ac485f9b140557b1ba6,5,Ringworm,Ringworm,True,0.9998
+test,Demodicosis,../datasets/feed/test/Demodicosis/D113_png_jpg.rf.aee2e613f5dd72fa9250df4c731ffb14.jpg,897b59de71cba207ee4712506fd6f41d,0,Demodicosis,Ringworm,False,0.6066
+test,Ringworm,../datasets/feed/test/Ringworm/Day-4-of-ringworm-treatment_00431_jpg.rf.1266ed55b6a4bf323f7e0cc6be3ec006.jpg,899eba0c731195879f01e83983a5eef6,5,Ringworm,Ringworm,True,1.0
+test,Dermatitis,../datasets/feed/test/Dermatitis/Thank-you-all-for-your-support_00007_jpg.rf.3a78cd0989b9de443bb48ed6fc963afa.jpg,89f599934aec41f4fd4f0e41c46ff552,1,Dermatitis,Dermatitis,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/R14_png_jpg.rf.9e19d750d3ae8a54fb6fdc2655bad124.jpg,8bbe8726f3d55259edd182cc9386bc4e,5,Ringworm,Demodicosis,False,0.9792
+test,Dermatitis,../datasets/feed/test/Dermatitis/HOT-SPOT-IN-DOG-HOW-vet-treated-symptom-prevention_-flea-bite-moist-eczema_dog-itching-000503_png_jpg.rf.3f901113b86f098b79fe81356cfca59c.jpg,8c9d0b04bedc62a69625ff10e860c763,1,Dermatitis,Dermatitis,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/P25_png_jpg.rf.5dd383cba7daddef5965f1245b1fe314.jpg,8cc4c7e262549f93a91de29e00a8d7a9,0,Demodicosis,Demodicosis,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/5A4BF21E-2505-406C-9A43-30E236CE08FE_jpeg_jpg.rf.4d4eadc3ca3f650a49a4be014b203a42.jpg,8dbe76b33fc0e9beabd56cef229cd29a,5,Ringworm,Ringworm,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/1-18-_png_jpg.rf.23fbb379292c087019e6c5eedf186063.jpg,8de84dab31a1568a3f5e6f1f4e0cec51,0,Demodicosis,Demodicosis,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/NEWR35_png_jpg.rf.b041a26240d6f68427fcf4a3450aa7eb.jpg,8e6b906aebebb8e059290d9d5ab5b2bc,5,Ringworm,Ringworm,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/2024-05-13-162817_jpg.rf.1bf1c2103e45bf24130d38d43d200e86.jpg,8ee8f3db114707b7dd99ad323e019ab1,0,Demodicosis,Demodicosis,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/R16_png_jpg.rf.63594e70dcbdb8b6172b29ddd498832e.jpg,8f28ce4b507a67ff2e0b81addb14b1c9,5,Ringworm,Ringworm,True,0.5129
+test,Hypersensitivity,../datasets/feed/test/Hypersensitivity/26_jpg.rf.fd37a11d2afe5a4babffe2f5fe4a4836.jpg,8f6e3b6b767ec40e51b4fca5efe30163,4,Hypersensitivity,Hypersensitivity,True,0.8249
+test,Demodicosis,../datasets/feed/test/Demodicosis/scabies_118_png_jpg.rf.6f52742288c73b44014ef2249cff7305.jpg,9165fc28dc27e068956bc7711e6391f6,0,Demodicosis,Demodicosis,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/ringworm-82-_jpg.rf.d33ae4bb95925555eba61140fab0b1c3.jpg,917cb8ff13417723bc0cafda78102cf5,5,Ringworm,Ringworm,True,0.9998
+test,Ringworm,../datasets/feed/test/Ringworm/R27_png_jpg.rf.222392f753e3302a0913b85a19243321.jpg,927a14823421bd0ad4a97c533ac8b6d6,5,Ringworm,Ringworm,True,1.0
+test,Healthy,../datasets/feed/test/Healthy/HEALTHY_058_jpg.rf.4753e1a3ece86975ab195107b8b6c3c7.jpg,93bc3b6a74d06f0e4dcc3771439cc978,3,Healthy,Healthy,True,0.9653
+test,Healthy,../datasets/feed/test/Healthy/images-32_jpg.rf.43251f9b65f755784df579d639cd121c.jpg,93c362844bb014ef3950f69be77fbe78,3,Healthy,Healthy,True,0.9992
+test,Ringworm,../datasets/feed/test/Ringworm/ringworm-49-_jpg.rf.ac6957e2a5488c76576123deb746dbb7.jpg,94f917681993ade4fe47223ea5f196dc,5,Ringworm,Ringworm,True,0.9395
+test,Demodicosis,../datasets/feed/test/Demodicosis/2024-05-13-162429_jpg.rf.47b40331204c428aa3a8b30b3729de40.jpg,959a5f77357911fd219ebd2c8e1654ec,0,Demodicosis,Demodicosis,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/R2_png_jpg.rf.087dbf143c0768c2903258436860aa61.jpg,95dd0f51a7ac294f76ea21f55e8ddd68,5,Ringworm,Ringworm,True,0.9996
+test,Hypersensitivity,../datasets/feed/test/Hypersensitivity/12_jpg.rf.017956d5efd63bdd176b50a007c72a2a.jpg,9648562dba53243102a40b82506306a6,4,Hypersensitivity,Fungal Infections,False,0.7626
+test,Ringworm,../datasets/feed/test/Ringworm/WIN_20240514_17_34_49_Pro_jpg.rf.a2950d4f4dab17fc676b7e05e64537df.jpg,980dfed9689f03e6434a73cd9497d95b,5,Ringworm,Ringworm,True,0.9981
+test,Ringworm,../datasets/feed/test/Ringworm/WIN_20240514_17_25_33_Pro_jpg.rf.4badac6859376b1c8c1dd77ce8b3ec35.jpg,983a867f359bab962c05545f2ba3edf7,5,Ringworm,Ringworm,True,0.9999
+test,Ringworm,../datasets/feed/test/Ringworm/NEWR21_png_jpg.rf.ddcb4a26d17fdd784342ab2e243402e4.jpg,98a0aab28935e316556bb22a91d61934,5,Ringworm,Ringworm,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/ringworm-47-_jpg.rf.9d3183025dc71e4e09295876bea173b8.jpg,98efb0bf21cff185239598d999e36be0,5,Ringworm,Ringworm,True,0.9999
+test,Demodicosis,../datasets/feed/test/Demodicosis/P31_png_jpg.rf.b191799be76471527235af3064787a50.jpg,993126b11ad75d2632e0696675b05f0b,0,Demodicosis,Demodicosis,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/436638693_826239035984778_764987017093970170_n_jpg.rf.8fb636ffaf21dcd0bfd58d49a7c7756f.jpg,9a9f691c5f3c4f42e0386f2a709962c6,5,Ringworm,Ringworm,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/NEWR10_jpeg_jpg.rf.0870f52a234b9c0ceb22d0afad46ec77.jpg,9afeb50cfc07a5207361f30b133236c8,5,Ringworm,Ringworm,True,0.9997
+test,Dermatitis,../datasets/feed/test/Dermatitis/May-is-allergy-awareness-month-here-at-The-Shot-Spot_02224_jpg.rf.c07723df846858d9f86f8bcf2ca3fa26.jpg,9d5386a9d4563069e8eda5eaf434291a,1,Dermatitis,Dermatitis,True,1.0
+test,Healthy,../datasets/feed/test/Healthy/dogs_168_jpg.rf.cebd5974a33777e135fe8982fccb1e66.jpg,9d71964e63375f396700db0d41ed61da,3,Healthy,Healthy,True,0.9996
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/FUNGAL-INFECTION_043_jpg.rf.a382c56a17f378c0952eb69482ff6846.jpg,9e02da99d944d5c4c7bb0e2a91e7c862,2,Fungal Infections,Fungal Infections,True,0.9732
+test,Demodicosis,../datasets/feed/test/Demodicosis/IMG_5206_jpeg_jpg.rf.fca7e407229ff989de73f12069f80f5c.jpg,9e508be0dc10c295ad30adfec598e0b3,0,Demodicosis,Demodicosis,True,0.9999
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/FUNGAL-INFECTION_069_jpg.rf.f87070f20968b46bf7cd058d53d88fad.jpg,9e90de2c429568054b4317cf51126301,2,Fungal Infections,Fungal Infections,True,0.4071
+test,Ringworm,../datasets/feed/test/Ringworm/WIN_20240514_17_34_33_Pro_jpg.rf.eecce148bc18305d44e6f322125940f9.jpg,9e9d5694210b6f0c13de7ac50da77240,5,Ringworm,Ringworm,True,1.0
+test,Hypersensitivity,../datasets/feed/test/Hypersensitivity/Hypersensitivity_image_3_jpg.rf.62ee0427f4b56dd94110629e91a0eae1.jpg,9f4ee603c19223255640068c9d98c780,4,Hypersensitivity,Hypersensitivity,True,0.9995
+test,Dermatitis,../datasets/feed/test/Dermatitis/1000010774_x4_jpg.rf.046aec438ea1d61d4275435f1587ab73.jpg,9f58cbfa573e78d95b09f297c919ca4a,1,Dermatitis,Dermatitis,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/P27_png_jpg.rf.f2732739e4d7207c0b008b401419ffad.jpg,9fcab5d52c4f6d332b98937837ab6299,0,Demodicosis,Demodicosis,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/D130_png_jpg.rf.4f7b686b7653129dffeaaa22bd843962.jpg,a0879591abf1f8e47b38137e502aecef,0,Demodicosis,Demodicosis,True,0.9925
+test,Ringworm,../datasets/feed/test/Ringworm/1000011982_x4_jpg.rf.f7b94e901175e93302a1476d40b79b88.jpg,a1ee4489480f6d3abb2f453a989bd838,5,Ringworm,Ringworm,True,0.999
+test,Dermatitis,../datasets/feed/test/Dermatitis/HOT-SPOT-IN-DOG-HOW-vet-treated-symptom-prevention_-flea-bite-moist-eczema_dog-itching-000153_png_jpg.rf.e5fefe65670b1862ac7741843d36a78e.jpg,a22a0de8e3bd50f56d3bca326fb370e2,1,Dermatitis,Dermatitis,True,0.8764
+test,Ringworm,../datasets/feed/test/Ringworm/438065176_410071371966337_678127791024855360_n_jpg.rf.2f88054b5e9319675692a358eb692cd6.jpg,a486349f9fdbe58dfde3a7b65ac026f7,5,Ringworm,Ringworm,True,1.0
+test,Dermatitis,../datasets/feed/test/Dermatitis/Owners-usually-don-t-get-a-good-vote-of-just-how-big-hotspots_00365_jpg.rf.98e0dca1b5717ed615f3c5789cc0c62c.jpg,a4e6b1c2dc074d347c4b2ee8f08d39ae,1,Dermatitis,Dermatitis,True,0.9993
+test,Healthy,../datasets/feed/test/Healthy/pic25_jpg.rf.9e69456da9ad65bb499f045ea5c5e033.jpg,a54c25373e181c974fe6a1bc68c58ec1,3,Healthy,Healthy,True,0.9909
+test,Demodicosis,../datasets/feed/test/Demodicosis/P31_png_jpg.rf.1faad088e21d33e9c7f6d6dd1e3a1575.jpg,a64453e3ff05e7f1c55068c639dc49f2,0,Demodicosis,Demodicosis,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/Day-4-of-ringworm-treatment_00261_jpg.rf.9315257c3f9b907d1db97353b5e16577.jpg,a6599f357542e86c8363e1b5b0cf599e,5,Ringworm,Ringworm,True,0.9993
+test,Ringworm,../datasets/feed/test/Ringworm/WIN_20240514_17_26_41_Pro_jpg.rf.7c6404f039d0048aaf769695f153dfde.jpg,a81b4778432713f7ba9da7b145e00ab5,5,Ringworm,Ringworm,True,0.9998
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/Fungal_2_jpg.rf.ba91fe1a012cb71594408a66c515e687.jpg,a92078d686f845d790830c181c882069,2,Fungal Infections,Fungal Infections,True,0.9999
+test,Healthy,../datasets/feed/test/Healthy/HEALTHY_045_jpg.rf.126734692106a0c50e81b707e50490fe.jpg,a94a39aebaa0e70530ca059c62e2e9da,3,Healthy,Hypersensitivity,False,0.5084
+test,Demodicosis,../datasets/feed/test/Demodicosis/scabies_110_png_jpg.rf.0f2ed30d0155bd54050b52b746775ccd.jpg,a9b93cee1e69b2e1cd0ae5fb588416ff,0,Demodicosis,Demodicosis,True,0.9673
+test,Hypersensitivity,../datasets/feed/test/Hypersensitivity/Hypersensitivity_image_1_jpg.rf.ce16c82350e243ad3be169130f218a65.jpg,a9fe316ffd62565a03d0a6e7d6f63022,4,Hypersensitivity,Hypersensitivity,True,0.9996
+test,Dermatitis,../datasets/feed/test/Dermatitis/1000010753_x16_jpg.rf.d479861064eb7db863d0428a3d510a5d.jpg,aa07cfde83eb5bb6ae452a208e8dbf35,1,Dermatitis,Dermatitis,True,0.9999
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/pic89_jpg.rf.1cac18d7b5622057b1816bb8a1b488b3.jpg,aaf934f8409594e0e480c3d596e48df9,2,Fungal Infections,Fungal Infections,True,0.7269
+test,Demodicosis,../datasets/feed/test/Demodicosis/scabies_125_png_jpg.rf.b17bcc7c9016cda843309643c65b223f.jpg,ab2c4197c2fc72f72b9b231df86c7745,0,Demodicosis,Demodicosis,True,1.0
+test,Dermatitis,../datasets/feed/test/Dermatitis/Owners-usually-don-t-get-a-good-vote-of-just-how-big-hotspots_00361_jpg.rf.a29d9a8f605cd5e89cb7f7a21d3230d2.jpg,ab43de5185895c10f5321490d2b0daec,1,Dermatitis,Dermatitis,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/scabies_117_png_jpg.rf.e5687cf11e1c7324fa7fb6b242428497.jpg,ab4c7a92e55e222ce2e6f62f5cbc2bd7,0,Demodicosis,Demodicosis,True,0.9998
+test,Healthy,../datasets/feed/test/Healthy/HEALTHY_038_jpg.rf.c4a72222528b2ecaa3d4fcdb4ffb26aa.jpg,abac5298fbf39b3c634df44a393f3669,3,Healthy,Healthy,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/IMG_5218_jpeg_jpg.rf.e0008b635658f9092ae7e20a82d2c7d3.jpg,abd08db0b773d172e000f2e234fe9dfb,0,Demodicosis,Demodicosis,True,0.9999
+test,Demodicosis,../datasets/feed/test/Demodicosis/1-34-_png_jpg.rf.fd857fd2db3d618fbf3b7bec58cafb98.jpg,abff56a780056ff87394ce6fd36f9c18,0,Demodicosis,Demodicosis,True,0.9986
+test,Ringworm,../datasets/feed/test/Ringworm/WIN_20240514_17_38_15_Pro_jpg.rf.2a2af2c0907e652d63c0297235bf80ff.jpg,ad75ebdc92b148a536cf25611c104b04,5,Ringworm,Ringworm,True,1.0
+test,Dermatitis,../datasets/feed/test/Dermatitis/HOT-SPOT-IN-DOG-HOW-vet-treated-symptom-prevention_-flea-bite-moist-eczema_dog-itching-000483_png_jpg.rf.63f9b3c2f5a97214f52cebe2e5616ca7.jpg,b258ccd4d88cc3139a342bd72a774b18,1,Dermatitis,Dermatitis,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/1000010776_x16_jpg.rf.a06619c83de32fb65556c9bd287efc3c.jpg,b29462ffbdba54d47c394a15cc358ba8,5,Ringworm,Ringworm,True,0.998
+test,Demodicosis,../datasets/feed/test/Demodicosis/scabies_124_png_jpg.rf.0d8499a3e6a52248c8cc5fb94348015e.jpg,b459c2a095ae5724c861f0f1526be1a7,0,Demodicosis,Demodicosis,True,0.9998
+test,Demodicosis,../datasets/feed/test/Demodicosis/2024-05-13-161921_jpg.rf.72c8d1074097cca91ea4966caee325d3.jpg,b5fa2c69f77c28925e776d7bb7aa5b32,0,Demodicosis,Demodicosis,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/1000010642_x16_jpg.rf.268e206b302b0b2b3e003c0431b445eb.jpg,b61ad2ab97d99ead75bb834de2974f2d,5,Ringworm,Ringworm,True,0.9983
+test,Demodicosis,../datasets/feed/test/Demodicosis/1-44-_png_jpg.rf.80d1cbf31af9c2f0a983342b5a58843d.jpg,b6b4316ea315b5cb43d0f1f814ca3d77,0,Demodicosis,Demodicosis,True,0.9973
+test,Ringworm,../datasets/feed/test/Ringworm/R48_png_jpg.rf.dfda436b343a5864fa0c3f2c75ac9a54.jpg,b7f61d98992c9d7182b72408d04a15ec,5,Ringworm,Ringworm,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/R30_png_jpg.rf.ef0d3534fb59be625aa6ff9410ca446d.jpg,b824b5946716efae9b9ab29c54bafc28,5,Ringworm,Ringworm,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/scabies_127_png_jpg.rf.a027c54a57b587dcbeaea164a036319a.jpg,b8ba12e72682941fd89e312fe0aee6a2,0,Demodicosis,Demodicosis,True,1.0
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/FUNGAL-INFECTION_070_jpg.rf.b547f03f7fcd26a0331f62e65aa55689.jpg,ba1b1237843b8f39ab8300bb7cfbdf8f,2,Fungal Infections,Fungal Infections,True,0.9992
+test,Dermatitis,../datasets/feed/test/Dermatitis/Atopic-dermatitis_Dog-chronic-lick-sore-on-leg_DermVets_jpg.rf.e3f4c6fcb1f3dbf3f44e1ef209b12004.jpg,baa0e5b88a0e766469bf542a4b4c3d67,1,Dermatitis,Dermatitis,True,0.9978
+test,Ringworm,../datasets/feed/test/Ringworm/WIN_20240514_17_41_56_Pro_jpg.rf.f4f67926e260ea9379ddf5dfe381a4bd.jpg,bc20a70d93f6b8efb5047ad9a4f6ffbc,5,Ringworm,Ringworm,True,0.9994
+test,Hypersensitivity,../datasets/feed/test/Hypersensitivity/1673_jpg.rf.87ca2be8fc106bc16edfa0cfc8814c02.jpg,bdbab5be82992123ff7e57107373823e,4,Hypersensitivity,Hypersensitivity,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/2024-05-13-134130_3_jpg.rf.a9626f14a97791c0b73b1baa97eeb972.jpg,bdc7f81614643fe12b05174bcb8f6e58,0,Demodicosis,Demodicosis,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/IMG_5217_jpeg_jpg.rf.4d1095ff3e528c9c8d1a7e58ba699736.jpg,be75e139c24f568d89f7018b08814d44,0,Demodicosis,Demodicosis,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/WIN_20240514_17_27_09_Pro_jpg.rf.9c5099c21c6e3d7a536e27f0175f85d4.jpg,bf252bd7db12cbea10fd8a007be5e32f,5,Ringworm,Ringworm,True,1.0
+test,Dermatitis,../datasets/feed/test/Dermatitis/hotspot-21-_jpg.rf.7268c5ab876a4148b645e08e1134719f.jpg,bf53478971c13e6be9a2700a72eec6a4,1,Dermatitis,Ringworm,False,0.9943
+test,Healthy,../datasets/feed/test/Healthy/dogs_265_jpg.rf.4074519fcc2b860102447e5af270bfe5.jpg,bf5a2ab8de822b5ece866b3839325e25,3,Healthy,Healthy,True,0.992
+test,Healthy,../datasets/feed/test/Healthy/dogs_245_jpg.rf.4bd07b64d01c3c0837e95a4256bb8a81.jpg,bf9e90af2c86307bc3e8821c3fa98d5e,3,Healthy,Healthy,True,0.9984
+test,Healthy,../datasets/feed/test/Healthy/HEALTHY_035_jpg.rf.989044cc4f07b2d860cf38666087c0c7.jpg,c085e1fe31f9316c9a37d4e8126d60bc,3,Healthy,Healthy,True,0.9986
+test,Healthy,../datasets/feed/test/Healthy/dogs_136_jpg.rf.d37f250d0fee440dfa7f76ffdafa10f4.jpg,c1938bb70be7e766a536af0cbf071f82,3,Healthy,Healthy,True,0.9986
+test,Demodicosis,../datasets/feed/test/Demodicosis/IMG_5149_jpeg_jpg.rf.0bf7ef820a889627d0f23bdfab2415aa.jpg,c1e27fe7a2b3d61ed151f076af94fb9e,0,Demodicosis,Demodicosis,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/1-31-_png_jpg.rf.5ca8c4f31b3323b3c1fa303e7bf87add.jpg,c273216822b4a3b15298c685325a4d4b,0,Demodicosis,Demodicosis,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/P36_png_jpg.rf.5ce9c3e21813045633454edd7b2f5e78.jpg,c2edce15e061f4293d2c9a397d45378c,0,Demodicosis,Demodicosis,True,1.0
+test,Dermatitis,../datasets/feed/test/Dermatitis/May-is-allergy-awareness-month-here-at-The-Shot-Spot_00016_jpg.rf.ab33519bec2147795d67705246a70d39.jpg,c3cd0276334d438ad49dca7c8f69faed,1,Dermatitis,Dermatitis,True,1.0
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/FUNGAL-INFECTION_047_png_jpg.rf.4ec7eb8c67e8066ed2e7e44de895cd67.jpg,c5ea7c814038150ac6a7b47ba29fcb3e,2,Fungal Infections,Fungal Infections,True,0.8911
+test,Ringworm,../datasets/feed/test/Ringworm/WIN_20240514_17_42_39_Pro_jpg.rf.616ccf349c0b16ab77667dd801f4f11b.jpg,c67a262bfe843790ae5993284ac96b4c,5,Ringworm,Ringworm,True,0.9989
+test,Healthy,../datasets/feed/test/Healthy/HEALTHY_047_jpg.rf.b75efee20d3b42b1aa37739d5c8d5ffc.jpg,c784e0fdd7882f3d617a8b4c98c6b832,3,Healthy,Healthy,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/1-28-_png_jpg.rf.0e9ce6bba7835ec866a4a20760f953e9.jpg,c7d6de19a1ca837305232acad5323a1e,0,Demodicosis,Demodicosis,True,1.0
+test,Healthy,../datasets/feed/test/Healthy/pic44_jpg.rf.0e83f6afc957a2d7be606ff885d79f59.jpg,c842f4b86d10427bd4ebb9c66091e6e8,3,Healthy,Fungal Infections,False,0.5372
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/pic36_jpg.rf.b7fb0f5ca63bc72fd6ed68da146d98e7.jpg,c85dc31fe5f713d89f713fd5de932cea,2,Fungal Infections,Healthy,False,0.4235
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/fung5_jpg.rf.fe46c9756b31d9ff524f8d02568d2d83.jpg,c996ab703b7ff7975f18dd41a4075a81,2,Fungal Infections,Fungal Infections,True,0.9985
+test,Ringworm,../datasets/feed/test/Ringworm/ringworm-30-_jpg.rf.4ce668e691470006e77f08ffd07ce7c0.jpg,cad914001c81d607677e62d22665e45e,5,Ringworm,Ringworm,True,0.9906
+test,Demodicosis,../datasets/feed/test/Demodicosis/IMG_5169_jpeg_jpg.rf.0c89d15ea73020da999650e57dfbf0be.jpg,cb7c2c041fa53cd8bbca5e847c3c19f2,0,Demodicosis,Demodicosis,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/WIN_20240514_17_42_19_Pro_jpg.rf.bfd643cfa7e30df141441ab9b10bc30c.jpg,cba5a3d317934e156f93fba90517388a,5,Ringworm,Ringworm,True,1.0
+test,Hypersensitivity,../datasets/feed/test/Hypersensitivity/1048_jpg.rf.099da1b7bc36b9279e0e6679f0931be2.jpg,cdaeb6e23603f2165e6d3fa02a73e7da,4,Hypersensitivity,Healthy,False,1.0
+test,Healthy,../datasets/feed/test/Healthy/skin-cancer-bumps-dog_jpg.rf.837192aff03f1c5ea680c820c307d197.jpg,cdd2a8d7bf779e293aae739b8486f5d8,3,Healthy,Healthy,True,0.9987
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/Fungal_Image_2_jpg.rf.25655b4fcb175f94b153078530fcb944.jpg,ce459ccacb289003cb85a26d3e21b809,2,Fungal Infections,Fungal Infections,True,0.9965
+test,Demodicosis,../datasets/feed/test/Demodicosis/P44_jpg.rf.fe96ffc583c706d4a099a0df1b764262.jpg,ced499ddc30ab2a513c1fb920c9f9e35,0,Demodicosis,Demodicosis,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/ringworm-92-_jpg.rf.c108fbb15d3674676ff1425b619b5701.jpg,ced85aecf2b2b94e6b9ac54eae4f08a0,5,Ringworm,Healthy,False,0.6044
+test,Demodicosis,../datasets/feed/test/Demodicosis/1-9-_jpg.rf.3db5b030e1629ff8e56cd6eb5e70dfc1.jpg,cf0d65ae43711d75ebc80a35548f7d3f,0,Demodicosis,Demodicosis,True,1.0
+test,Dermatitis,../datasets/feed/test/Dermatitis/83482425_2666988283398175_4819098995697647616_n_jpg.rf.50324510961a2bc10e76144baba327b3.jpg,cf841fa162f1a33999924b5b5e6970f3,1,Dermatitis,Healthy,False,0.9722
+test,Healthy,../datasets/feed/test/Healthy/dogs_265_jpg.rf.ac7979b96bf0861f549ace70173a1188.jpg,cfa59f73e9a85486529a5a41b606a7d5,3,Healthy,Healthy,True,0.8611
+test,Hypersensitivity,../datasets/feed/test/Hypersensitivity/Hypersensitivity_image_3_jpg.rf.48b9f3a634d9ccce02521cc9828502b6.jpg,d04b1aff645fe9df891352af97fc6e18,4,Hypersensitivity,Hypersensitivity,True,0.9973
+test,Ringworm,../datasets/feed/test/Ringworm/WIN_20240514_17_38_33_Pro_jpg.rf.1b983e45297379668f90715b53f861f6.jpg,d04f3bfbabdf46230440ee8d39f23857,5,Ringworm,Ringworm,True,0.9997
+test,Dermatitis,../datasets/feed/test/Dermatitis/May-is-allergy-awareness-month-here-at-The-Shot-Spot_01561_jpg.rf.2723bb211953aa104016b47ff6a67c2e.jpg,d107579d7b10a0f7b419364321ebfa51,1,Dermatitis,Dermatitis,True,0.9997
+test,Ringworm,../datasets/feed/test/Ringworm/NEWR39_png_jpg.rf.ba5e32f28d6e995ee67e283b29890779.jpg,d1f5489c1618735510f7b2daf4f3cdea,5,Ringworm,Ringworm,True,1.0
+test,Healthy,../datasets/feed/test/Healthy/HEALTHY_058_jpg.rf.11701dfb477adba58da03ceae5476476.jpg,d299fc57e9f3c67adf621bc79ed83ad3,3,Healthy,Fungal Infections,False,0.9451
+test,Demodicosis,../datasets/feed/test/Demodicosis/2024-05-13-162638_jpg.rf.8494649f79633b68d9cae0c79c5e0612.jpg,d2a6af406d9b5789b4e0db09b9e3a875,0,Demodicosis,Demodicosis,True,1.0
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/FUNGAL-INFECTION_046_jpg.rf.8728ac449c080141d8b1b41e0e360fb9.jpg,d31234095fbba8f4c4a3a769e66ff477,2,Fungal Infections,Fungal Infections,True,0.9923
+test,Demodicosis,../datasets/feed/test/Demodicosis/IMG_5219_jpeg_jpg.rf.2da4ada21498cf3cedf953c76490a632.jpg,d32538633e402547557a71f2b1409b58,0,Demodicosis,Demodicosis,True,0.9999
+test,Dermatitis,../datasets/feed/test/Dermatitis/877_jpg.rf.e04f2fe5c13461b3f14c50777c96fefe.jpg,d3342bfd582829ffde2cfacccf2d91fe,1,Dermatitis,Dermatitis,True,0.9386
+test,Dermatitis,../datasets/feed/test/Dermatitis/hot-spots-suck_00097_jpg.rf.44dcf2f7451b5132623b08ee43faf1db.jpg,d34d0e9996240ce0e31e0e596be60a41,1,Dermatitis,Dermatitis,True,1.0
+test,Dermatitis,../datasets/feed/test/Dermatitis/May-is-allergy-awareness-month-here-at-The-Shot-Spot_02671_jpg.rf.8587d0f1fd39c2f716488fbb8c51be99.jpg,d3d1c91473d9368bf9ea10918711524a,1,Dermatitis,Dermatitis,True,0.9974
+test,Healthy,../datasets/feed/test/Healthy/pic15_jpg.rf.9fd924bad95c251fde574c613f420a81.jpg,d3fcc2323c7baf5a112f68912425bf28,3,Healthy,Healthy,True,0.9968
+test,Ringworm,../datasets/feed/test/Ringworm/ringworm-90-_jpg.rf.d3c8bbe1170f9911fd74b2906e989eee.jpg,d45f878f56794fe68041894c075a4818,5,Ringworm,Ringworm,True,0.9997
+test,Ringworm,../datasets/feed/test/Ringworm/1000010541_x16_jpg.rf.b52eeb575876364c7e15014530475f4b.jpg,d78515efa811c83b4a8874eadf4e376a,5,Ringworm,Ringworm,True,0.9225
+test,Demodicosis,../datasets/feed/test/Demodicosis/2024-05-13-134258_4_jpg.rf.1a3f7c21f0e8821c611e4c36494428bc.jpg,d7887fb8192953b2c0044f71106a1585,0,Demodicosis,Demodicosis,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/1-69-_png_jpg.rf.9a60aaea966c904400b32fa68755de47.jpg,d886ed49339f12964d267defcc1510b3,0,Demodicosis,Demodicosis,True,0.9997
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/pic35_jpg.rf.dbddad597f0cf1e93ed7884dee88b96c.jpg,d9324c73d1e502e8fb6c517f3402d59a,2,Fungal Infections,Fungal Infections,True,0.5487
+test,Ringworm,../datasets/feed/test/Ringworm/ringworm-104-_jpg.rf.7a1d04dc6275bad316f6bf7b8e752c8c.jpg,d98b71c8053fa61e0b57e51fb8721c3c,5,Ringworm,Ringworm,True,0.8764
+test,Ringworm,../datasets/feed/test/Ringworm/WIN_20240514_17_31_29_Pro_jpg.rf.14425635f9b5aeffe13f5b4f1fcc60dd.jpg,dac99a5932bc9910635e015f4efe031d,5,Ringworm,Ringworm,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/IMG_5173_jpeg_jpg.rf.743ef789fa0a492142632e08a9cb97f9.jpg,db4393a9308167f8bf500bf49665fa93,0,Demodicosis,Demodicosis,True,1.0
+test,Dermatitis,../datasets/feed/test/Dermatitis/May-is-allergy-awareness-month-here-at-The-Shot-Spot_02176_jpg.rf.9e9d261224278a3327050d94a55dd859.jpg,dbf049495737bcc2f3d8f3d124209355,1,Dermatitis,Dermatitis,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/scabies_136_png_jpg.rf.91944b02af068d2371dc568077150ff3.jpg,dc0a42927156d34faa71a66ece91c5d0,0,Demodicosis,Demodicosis,True,0.9997
+test,Ringworm,../datasets/feed/test/Ringworm/ringworm-11-_jpg.rf.61fdf6d065188bfbd86a1601f7644715.jpg,dc7a8a20f5c1dcd88237907bb65dc5a2,5,Ringworm,Ringworm,True,0.9999
+test,Hypersensitivity,../datasets/feed/test/Hypersensitivity/B9781416056638000070_f007-004-9781416056638_jpg.rf.9c6126d4500d537def0ed601fcd4b84d.jpg,dd149c526537200b31348e86c87aa93d,4,Hypersensitivity,Ringworm,False,0.7992
+test,Healthy,../datasets/feed/test/Healthy/HEALTHY_060_jpg.rf.f5593a2be8097621271132194ab47ece.jpg,dd2f85ef5967edac508d7f5923b06677,3,Healthy,Healthy,True,1.0
+test,Healthy,../datasets/feed/test/Healthy/dogs_077_jpg.rf.8e4f0166f178ebd7b37eaf3750e6792b.jpg,debdea70d5e29c0fed92855db24e9f2a,3,Healthy,Healthy,True,1.0
+test,Healthy,../datasets/feed/test/Healthy/dogs_083_jpg.rf.d7bdd8bd18fda58c8d84e28eb0e283da.jpg,dfe80212ed82ca8520b87e826c4ff4df,3,Healthy,Healthy,True,0.9998
+test,Dermatitis,../datasets/feed/test/Dermatitis/hotspot-99-_jpg.rf.45ed89ed11592f69b526529a9e45448d.jpg,dff6a71ef3b314bf55a232062ccfc9d9,1,Dermatitis,Hypersensitivity,False,0.9209
+test,Dermatitis,../datasets/feed/test/Dermatitis/May-is-allergy-awareness-month-here-at-The-Shot-Spot_01561_jpg.rf.6b5256062f83d0cd2e38ac6657071acb.jpg,e0121ede46c9d5c68f37359cce2e69b0,1,Dermatitis,Dermatitis,True,0.9993
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/FUNGAL-INFECTION_054_jpg.rf.6e668626e590158e3bc98c77cb8cf646.jpg,e062b71578a74bcdae47cdec380c7405,2,Fungal Infections,Fungal Infections,True,0.6536
+test,Dermatitis,../datasets/feed/test/Dermatitis/Bacterial_Image_2_jpg.rf.3c1265eca9fe51395e6e85a79893046a.jpg,e09734bafc55d93146058ded5fa96f6d,1,Dermatitis,Dermatitis,True,0.9993
+test,Ringworm,../datasets/feed/test/Ringworm/WIN_20240514_17_40_50_Pro_jpg.rf.3d679dd76f5f22e79038be22b1016c33.jpg,e1bf5167bdee7acbd2d24191df1cd9f4,5,Ringworm,Ringworm,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/R12_png_jpg.rf.20b47ac5bb294aeb2831a86abfcf401f.jpg,e1d402c1fedfbf3299959cfb984ec2d4,5,Ringworm,Ringworm,True,0.8861
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/pic76_jpg.rf.072ed0627faf6e4f55f742e5e85c009c.jpg,e1d8fa6752296953452285d6db1f8bd2,2,Fungal Infections,Fungal Infections,True,0.4437
+test,Ringworm,../datasets/feed/test/Ringworm/ringworm-85-_jpg.rf.978970dd4a71a9fa472f7931e941522c.jpg,e32d8825db6b734944441de79478ea41,5,Ringworm,Fungal Infections,False,0.9865
+test,Ringworm,../datasets/feed/test/Ringworm/ringworm-105-_jpg.rf.b2841469a1be51b267a5a92026da0d75.jpg,e36b3bfa8f4c2fd55428405c1fd874f8,5,Ringworm,Ringworm,True,0.7487
+test,Demodicosis,../datasets/feed/test/Demodicosis/IMG_5162_jpeg_jpg.rf.eb164401e6b33a834ac5c26263f50cdc.jpg,e39e52407c9f58c7141d2dfcc4f46e5d,0,Demodicosis,Demodicosis,True,1.0
+test,Hypersensitivity,../datasets/feed/test/Hypersensitivity/B9781416056638000070_f007-013-9781416056638_jpg.rf.c9b1cd4136b9baee003e8c54cce0985e.jpg,e4dcb8b83898cb7b9eece21c840dd39e,4,Hypersensitivity,Hypersensitivity,True,0.9653
+test,Hypersensitivity,../datasets/feed/test/Hypersensitivity/B9781416056638000070_f007-012-9781416056638_jpg.rf.7e7713268b11f5daba49816bf2d047be.jpg,e55c76bfac18710678a7cee574332c50,4,Hypersensitivity,Hypersensitivity,True,0.9986
+test,Ringworm,../datasets/feed/test/Ringworm/1000011983_x4_jpg.rf.822bdab379281067fb03d1d9a68b36fb.jpg,e6753a87afd2e10c9708086d98a7794a,5,Ringworm,Ringworm,True,1.0
+test,Dermatitis,../datasets/feed/test/Dermatitis/hot-spots-suck_00229_jpg.rf.91fb6495883db20dbb1d1fa50aba7f96.jpg,e70877786f0ae925f33d4ecf011b617c,1,Dermatitis,Dermatitis,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/Day-28-of-ringworm-treatment_00151_jpg.rf.e6c3d5786a9247effcd9fc216014724e.jpg,e7c47b5ef3e3b3a16c25b3e849c9b9c2,5,Ringworm,Ringworm,True,0.9981
+test,Hypersensitivity,../datasets/feed/test/Hypersensitivity/1642_jpg.rf.19324b912bc25d490b0afa7dfe63bf81.jpg,e8767f2d82ec9eab883adf1d3f58b54d,4,Hypersensitivity,Hypersensitivity,True,0.8226
+test,Ringworm,../datasets/feed/test/Ringworm/ringworm-5-_jpg.rf.fa038ef97257e11ef8ad3ed2691affff.jpg,e97419548933498f339f817de2794da0,5,Ringworm,Ringworm,True,0.9999
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/1090_jpg.rf.29051c51a9be6c1832ea6fc64b1baadd.jpg,ea0334c1311554590eca023c1f206ea0,2,Fungal Infections,Healthy,False,0.9823
+test,Ringworm,../datasets/feed/test/Ringworm/R32_png_jpg.rf.78925e7e0420bc82650c9d3fa2405fa4.jpg,ea2825d275fc89728e0a3015feeb3780,5,Ringworm,Ringworm,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/WIN_20240514_17_28_43_Pro_jpg.rf.cfa0da19be1be19b7458ffb2cc2dd2c4.jpg,eae645b08780cb98d99b4629cb614f4d,5,Ringworm,Ringworm,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/1-6-_png_jpg.rf.5b1b0274c639d0ef954ca0ca6e5975c4.jpg,eb7b7a37d82b05bf38410752ffad3bad,0,Demodicosis,Demodicosis,True,0.7536
+test,Healthy,../datasets/feed/test/Healthy/HEALTHY_016_jpg.rf.0b8780593681168ed6dcf211aca897f4.jpg,ec74c7799b10a231e767105e7debcd8c,3,Healthy,Healthy,True,0.9979
+test,Demodicosis,../datasets/feed/test/Demodicosis/2024-05-13-134316_1_jpg.rf.da4668017a76fc7640e5c8de86b9a48f.jpg,ed9b48f075880399450c0e2ac280910c,0,Demodicosis,Demodicosis,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/1-6-_jpg.rf.b2e6736a754d470ff2617f5a39c3bb9a.jpg,edab781277b88f4ebc5bfac7811704f2,0,Demodicosis,Demodicosis,True,0.9961
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/1670_jpg.rf.e89395960abf7ab97270a0435c27f967.jpg,ee21d31a8c5dba8ed0d37c1bc96bc040,2,Fungal Infections,Fungal Infections,True,0.9686
+test,Healthy,../datasets/feed/test/Healthy/HEALTHY_055_jpg.rf.f1bd033bf5b9222172330c1854be791b.jpg,ef39ce85c7af8fb998ae61db7d3ca98b,3,Healthy,Healthy,True,0.9915
+test,Ringworm,../datasets/feed/test/Ringworm/R17_png_jpg.rf.96618bbb338cfc167c70e5a121eae354.jpg,ef5a094b7991bee2044a1feae20b6352,5,Ringworm,Demodicosis,False,0.9941
+test,Demodicosis,../datasets/feed/test/Demodicosis/2024-05-13-162206_jpg.rf.b46e7e979e08141152411db53f61c3a7.jpg,ef7aea19b5255f5a7f7ced5e4fec1e5e,0,Demodicosis,Demodicosis,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/D105_png_jpg.rf.0f3921d4001740ddba7fa098b77a1bc5.jpg,f00f98a392c30174ecaca00a1e829060,0,Demodicosis,Dermatitis,False,0.9799
+test,Ringworm,../datasets/feed/test/Ringworm/WIN_20240514_17_33_27_Pro_jpg.rf.fdc671cbf71fd4b54b468dea82f2ce89.jpg,f0116e908e15345bd7075975ffd4c08e,5,Ringworm,Ringworm,True,0.9995
+test,Ringworm,../datasets/feed/test/Ringworm/WIN_20240514_17_29_33_Pro-2-_jpg.rf.69886a405f1449b5f8de58963bb5adf6.jpg,f0aac6f28fdaf29c76abc189b84f4707,5,Ringworm,Ringworm,True,1.0
+test,Healthy,../datasets/feed/test/Healthy/dogs_047_jpg.rf.a0ad6f471fcb1a9db26eaa345df20283.jpg,f24997ebbac7f6001db4e0bd8234e4e0,3,Healthy,Healthy,True,0.998
+test,Healthy,../datasets/feed/test/Healthy/pic18_jpg.rf.f9949e85fa48aebd0af7d92ee515a07b.jpg,f267dbf93df3954a6d04cf9cc09f2d71,3,Healthy,Healthy,True,0.9991
+test,Ringworm,../datasets/feed/test/Ringworm/436646102_943880210611867_8407756000999041587_n_jpg.rf.dc0bb7f2bcc852416ac2031e3e355964.jpg,f3735da6a0e7ddbdec668aad8ba16594,5,Ringworm,Ringworm,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/1-44-_png_jpg.rf.4d021276893f273a628c0078a2801dd2.jpg,f3c65909d88bb8b6739048711f95094b,0,Demodicosis,Demodicosis,True,0.99
+test,Demodicosis,../datasets/feed/test/Demodicosis/1-60-_png_jpg.rf.93ddbe41b0e22fd34e56f4e3c24fdd22.jpg,f44afe61d5662c4d9fd544bb983aba25,0,Demodicosis,Demodicosis,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/NEWR12_jpeg_jpg.rf.0d5c77555f632241a28b728205173647.jpg,f4625bd3104b2c911ba903ac5148fe70,5,Ringworm,Ringworm,True,1.0
+test,Healthy,../datasets/feed/test/Healthy/Image_10_jpeg_jpg.rf.cc9236214504f142db7dfd07bfb9bb6b.jpg,f649a89f52968eb0a3f15c3d595dca15,3,Healthy,Healthy,True,1.0
+test,Dermatitis,../datasets/feed/test/Dermatitis/hotspot-59-_jpg.rf.f337d2aa3fff8e2393df0b3e948fd7dc.jpg,f6d4528067608e700f22eb7e1a9f6649,1,Dermatitis,Ringworm,False,0.8174
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/Fungal4_png_jpg.rf.681cee720a75f7d8858e8d4f5fd4406e.jpg,f6ff510f11bfb20bb33a4309cd91f6d1,2,Fungal Infections,Fungal Infections,True,0.9996
+test,Ringworm,../datasets/feed/test/Ringworm/Day-4-of-ringworm-treatment_00431_jpg.rf.cf33137e463bec808c37e55bbb79b922.jpg,f791933a3504211d36b447cf1a38e1ec,5,Ringworm,Ringworm,True,1.0
+test,Hypersensitivity,../datasets/feed/test/Hypersensitivity/1720_jpg.rf.e4ce53f9bec6161342d04986505c94c9.jpg,f7f0073a6c8d5d0b837d0f327d170f3b,4,Hypersensitivity,Hypersensitivity,True,0.9866
+test,Demodicosis,../datasets/feed/test/Demodicosis/IMG_5311_jpeg_jpg.rf.700740965641b434a5fc7e494d01aa74.jpg,f89940425273432d7807e5c1b58221e2,0,Demodicosis,Demodicosis,True,1.0
+test,Demodicosis,../datasets/feed/test/Demodicosis/IMG_5185_jpeg_jpg.rf.173bcf728fc4cdebb998ab9b48c3fd94.jpg,f8cd0adfa46a41626b95aa30b31c372e,0,Demodicosis,Demodicosis,True,1.0
+test,Healthy,../datasets/feed/test/Healthy/dogs_046_jpg.rf.945af7251ed1575ef591c5bf88203fe4.jpg,f9ca9dbb707817730b12daf78fe0fc81,3,Healthy,Healthy,True,0.9997
+test,Demodicosis,../datasets/feed/test/Demodicosis/2024-05-13-162850_jpg.rf.d5f0f61280d57b363bb6bdb4cf51c6e1.jpg,fa05c316916dcc69ca6a33a17d6261ec,0,Demodicosis,Demodicosis,True,0.9995
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/fung4_jpg.rf.ad55b27fb3d1b875b1d2def22b01f646.jpg,fa5b7a0d3a4f3790311e0adcbf9a86cd,2,Fungal Infections,Fungal Infections,True,0.9912
+test,Demodicosis,../datasets/feed/test/Demodicosis/2024-05-13-165130_jpg.rf.daaa4036ed8f08e10cf5dc2ddc2ab6fc.jpg,fc04004ac23feaaa8a00f59157c0165c,0,Demodicosis,Demodicosis,True,1.0
+test,Ringworm,../datasets/feed/test/Ringworm/NEWR24_png_jpg.rf.9cc922b08f48dc72257ad3c4b9c3e9b3.jpg,fc652710ded39a23c3938d26e0ba5ac2,5,Ringworm,Ringworm,True,1.0
+test,Dermatitis,../datasets/feed/test/Dermatitis/1000010693_x16_jpg.rf.bac3541b5be276ac003e21592bcf099c.jpg,fc97108149df6bf78711ecadcf398fab,1,Dermatitis,Dermatitis,True,0.9991
+test,Dermatitis,../datasets/feed/test/Dermatitis/May-is-allergy-awareness-month-here-at-The-Shot-Spot_00070_jpg.rf.c438d13cc4bce1f923007ac1d22c5acf.jpg,fca6dfef29643ae02f1496718ecbd6a9,1,Dermatitis,Dermatitis,True,1.0
+test,Healthy,../datasets/feed/test/Healthy/dogs_278_jpg.rf.7ec294993bdda0bb66dff0876675d4e9.jpg,fd6db963b9180c70b0ff733c0685330b,3,Healthy,Healthy,True,1.0
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/pic54_jpg.rf.7396e32c3cd09a324b7daa9e7d5f2b6b.jpg,fd931df67c06fa769f15afe140566360,2,Fungal Infections,Fungal Infections,True,0.9956
+test,Healthy,../datasets/feed/test/Healthy/dogs_045_jpg.rf.038046a65dfdf91d75753bbc6041db82.jpg,fdd075134cad6264d0a6bbd2a15d4ffd,3,Healthy,Healthy,True,0.9999
+test,Ringworm,../datasets/feed/test/Ringworm/R40_png_jpg.rf.09230a8c8c44c05045cee5e1f702dc92.jpg,fe8af68de16e49312d5232a3ff8054b1,5,Ringworm,Ringworm,True,1.0
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/FUNGAL-INFECTION_018_jpg.rf.8de28511efc9648045c6479618df75f5.jpg,ff196a8f9b1bd280f41df39b05dfd704,2,Fungal Infections,Fungal Infections,True,1.0
+test,Healthy,../datasets/feed/test/Healthy/HEALTHY_008_jpg.rf.e601b58977ca3ff6fb8205b3363f3903.jpg,ffe01b653700ac47cacc1840bf60d9ff,3,Healthy,Healthy,True,0.9995
+test,Fungal Infections,../datasets/feed/test/Fungal Infections/FUNGAL-INFECTION_007_jpg.rf.2b0e0aad14c7b26bc0aca0f2bd6e8d79.jpg,ffe3a7b041e1af35c41b29bb07b55ada,2,Fungal Infections,Fungal Infections,True,0.9999

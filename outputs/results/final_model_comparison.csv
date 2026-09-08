@@ -1,0 +1,4 @@
+Model,Accuracy,Macro Precision,Macro Recall,Macro F1-score
+CNN Features + MLP,0.9169,0.9002,0.8837,0.8904
+MobileNetV2 Transfer Learning,0.8614,0.8311,0.8223,0.8259
+Raw Pixels + Random Forest,0.6328,0.6566,0.5583,0.5642
