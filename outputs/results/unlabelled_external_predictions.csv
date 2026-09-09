@@ -1,0 +1,27 @@
+image_path,predicted_class,confidence,final_prediction
+../datasets/real/unlabelled/IMG_0571.jpg,Healthy,0.9728,Healthy
+../datasets/real/unlabelled/IMG_8926.jpg,Dermatitis,0.8648,Dermatitis
+../datasets/real/unlabelled/IMG_0577.JPG,Hypersensitivity,0.5805,Low confidence / Needs veterinary review
+../datasets/real/unlabelled/IMG_8288.jpg,Ringworm,0.9872,Ringworm
+../datasets/real/unlabelled/IMG_8855.jpg,Healthy,0.7413,Healthy
+../datasets/real/unlabelled/IMG_1829.jpg,Hypersensitivity,0.774,Hypersensitivity
+../datasets/real/unlabelled/IMG_1140.JPG,Healthy,0.9998,Healthy
+../datasets/real/unlabelled/IMG_1187.jpg,Demodicosis,0.9248,Demodicosis
+../datasets/real/unlabelled/IMG_8638.jpg,Dermatitis,0.9378,Dermatitis
+../datasets/real/unlabelled/IMG_3198.jpg,Healthy,0.9874,Healthy
+../datasets/real/unlabelled/IMG_8557.jpg,Healthy,0.9271,Healthy
+../datasets/real/unlabelled/IMG_9891.jpg,Dermatitis,0.9404,Dermatitis
+../datasets/real/unlabelled/IMG_3199.jpg,Healthy,1.0,Healthy
+../datasets/real/unlabelled/IMG_1831.jpg,Ringworm,0.8663,Ringworm
+../datasets/real/unlabelled/IMG_7529.jpg,Fungal Infections,0.6365,Fungal Infections
+../datasets/real/unlabelled/IMG_1830.jpg,Dermatitis,0.68,Dermatitis
+../datasets/real/unlabelled/IMG_8751.jpg,Dermatitis,0.5822,Low confidence / Needs veterinary review
+../datasets/real/unlabelled/IMG_8723.jpg,Healthy,0.9998,Healthy
+../datasets/real/unlabelled/IMG_8720.jpg,Dermatitis,0.8777,Dermatitis
+../datasets/real/unlabelled/3ba77f17d920afa56eaf091f0ac65d8f.JPEG,Healthy,0.9798,Healthy
+../datasets/real/unlabelled/IMG_8537.jpg,Healthy,0.9957,Healthy
+../datasets/real/unlabelled/IMG_8735.jpg,Healthy,0.5281,Low confidence / Needs veterinary review
+../datasets/real/unlabelled/IMG_8655.jpg,Dermatitis,0.9417,Dermatitis
+../datasets/real/unlabelled/IMG_0792.JPG,Healthy,0.7038,Healthy
+../datasets/real/unlabelled/IMG_8652.jpg,Healthy,0.9459,Healthy
+../datasets/real/unlabelled/IMG_8726.jpg,Healthy,0.9941,Healthy

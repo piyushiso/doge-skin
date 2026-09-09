@@ -1,0 +1,93 @@
+image_path,actual_class,predicted_class,confidence,correct
+../datasets/real/labelled/Healthy/017.jpg,Healthy,Healthy,0.9972,True
+../datasets/real/labelled/Healthy/60.jpg,Healthy,Healthy,1.0,True
+../datasets/real/labelled/Healthy/015.jpg,Healthy,Healthy,0.9965,True
+../datasets/real/labelled/Healthy/028.jpg,Healthy,Healthy,0.9998,True
+../datasets/real/labelled/Healthy/011.jpg,Healthy,Healthy,0.9965,True
+../datasets/real/labelled/Healthy/007.jpg,Healthy,Healthy,0.9707,True
+../datasets/real/labelled/Healthy/67.jpg,Healthy,Healthy,0.9999,True
+../datasets/real/labelled/Healthy/088.jpg,Healthy,Healthy,1.0,True
+../datasets/real/labelled/Healthy/16.jpg,Healthy,Healthy,1.0,True
+../datasets/real/labelled/Healthy/066.jpg,Healthy,Healthy,0.9988,True
+../datasets/real/labelled/Healthy/071.jpg,Healthy,Healthy,0.9848,True
+../datasets/real/labelled/Healthy/35.jpg,Healthy,Hypersensitivity,0.956,False
+../datasets/real/labelled/Healthy/055.jpg,Healthy,Healthy,1.0,True
+../datasets/real/labelled/Healthy/36.jpg,Healthy,Healthy,0.9993,True
+../datasets/real/labelled/Healthy/255.jpg,Healthy,Healthy,1.0,True
+../datasets/real/labelled/Healthy/094.jpg,Healthy,Healthy,1.0,True
+../datasets/real/labelled/Healthy/536.jpg,Healthy,Healthy,1.0,True
+../datasets/real/labelled/Healthy/092.jpg,Healthy,Healthy,1.0,True
+../datasets/real/labelled/Healthy/037.jpg,Healthy,Healthy,0.9985,True
+../datasets/real/labelled/Healthy/034.jpg,Healthy,Healthy,0.9999,True
+../datasets/real/labelled/Healthy/009.jpg,Healthy,Healthy,0.9958,True
+../datasets/real/labelled/Healthy/030.jpg,Healthy,Healthy,0.9999,True
+../datasets/real/labelled/Healthy/0094.jpg,Healthy,Healthy,0.999,True
+../datasets/real/labelled/Healthy/53.jpg,Healthy,Healthy,1.0,True
+../datasets/real/labelled/Fungal Infections/Fungal_Image_2_jpg.rf.a21da398a6b4dff4014d7a3717b19fd2.jpg,Fungal Infections,Fungal Infections,0.9992,True
+../datasets/real/labelled/Fungal Infections/fungal3_jpg.rf.a3cc829b79b93483310453fd11d55ae2.jpg,Fungal Infections,Fungal Infections,0.9982,True
+../datasets/real/labelled/Fungal Infections/fung5_jpg.rf.7eeef9f8f70789298f4798346ed6ea07.jpg,Fungal Infections,Fungal Infections,0.9983,True
+../datasets/real/labelled/Fungal Infections/fungal3_jpg.rf.431695094998d11134985bac9cbb4221.jpg,Fungal Infections,Fungal Infections,0.9983,True
+../datasets/real/labelled/Fungal Infections/Fungal4_png.rf.1fd3c7212eac412856b4785901faa9a4.jpg,Fungal Infections,Fungal Infections,0.9994,True
+../datasets/real/labelled/Fungal Infections/Fungal3_png.rf.628c08b109ee445ac0a59e939c3de6b6.jpg,Fungal Infections,Fungal Infections,0.9993,True
+../datasets/real/labelled/Fungal Infections/Fungal_Image_2_jpg.rf.a5adb82a978c9ca726d0590045ec8941.jpg,Fungal Infections,Fungal Infections,1.0,True
+../datasets/real/labelled/Fungal Infections/fungal2_jpg.rf.eb69f493ba5b3a16262118b9933b2e4a.jpg,Fungal Infections,Fungal Infections,0.997,True
+../datasets/real/labelled/Fungal Infections/fung4_jpg.rf.608bf0bd5797e098ca2bdc3910e57c49.jpg,Fungal Infections,Fungal Infections,0.9996,True
+../datasets/real/labelled/Fungal Infections/Fungal1_png.rf.3ace3f1d21b5601b5b9512505bbbbe48.jpg,Fungal Infections,Fungal Infections,1.0,True
+../datasets/real/labelled/Fungal Infections/Fungal3_png.rf.77bb7c2184e22f4fe7299f318ead9b6b.jpg,Fungal Infections,Demodicosis,0.9984,False
+../datasets/real/labelled/Fungal Infections/fungal1_jpg.rf.ede6ab9cda2d1a7bfd0af0b701f69b9b.jpg,Fungal Infections,Fungal Infections,0.9987,True
+../datasets/real/labelled/Fungal Infections/fung4_jpg.rf.a02345003ecbe1653b3792e1c140eef2.jpg,Fungal Infections,Fungal Infections,0.9995,True
+../datasets/real/labelled/Fungal Infections/fung2_jpg.rf.bfdd88f4e794d851c5ddeb630b1765b8.jpg,Fungal Infections,Fungal Infections,0.999,True
+../datasets/real/labelled/Fungal Infections/Fungal_Image_1_jpg.rf.289c2dbb710bd3916837bd9f66a0b594.jpg,Fungal Infections,Fungal Infections,0.9999,True
+../datasets/real/labelled/Fungal Infections/fung2_jpg.rf.c13f2ff675e2034380524cbd39954f93.jpg,Fungal Infections,Fungal Infections,1.0,True
+../datasets/real/labelled/Fungal Infections/fung5_jpg.rf.afd9266ef9bbc8cc3ae028799687e3e8.jpg,Fungal Infections,Fungal Infections,0.994,True
+../datasets/real/labelled/Fungal Infections/Fungal_Image_1_jpg.rf.61a627df4684d9ef8ce3c134e645d066.jpg,Fungal Infections,Fungal Infections,1.0,True
+../datasets/real/labelled/Fungal Infections/Fungal_Image_4_jpg.rf.0d82c6e6537d46585057bcc6248d8912.jpg,Fungal Infections,Fungal Infections,0.9989,True
+../datasets/real/labelled/Fungal Infections/Fungal_Image_2_jpg.rf.2fd953e410d6fd6f96ef898c16f7eba0.jpg,Fungal Infections,Fungal Infections,0.9966,True
+../datasets/real/labelled/Fungal Infections/fungal2_jpg.rf.307b5b19918cfb068e112488fcd75524.jpg,Fungal Infections,Fungal Infections,0.9995,True
+../datasets/real/labelled/Fungal Infections/Fungal3_png.rf.4d6246549c920ad0035288e19471ce26.jpg,Fungal Infections,Fungal Infections,0.9993,True
+../datasets/real/labelled/Fungal Infections/Fungal1_png.rf.50a3a18ef0c73cb8eeb1293c2c690c17.jpg,Fungal Infections,Fungal Infections,0.9984,True
+../datasets/real/labelled/Fungal Infections/Fungal_Image_1_jpg.rf.5bf29ef56032ff8e4673b723bb8dc9ff.jpg,Fungal Infections,Fungal Infections,0.9998,True
+../datasets/real/labelled/Fungal Infections/Fungal4_png.rf.56f48b56c3e2809f9cea8db05143bf51.jpg,Fungal Infections,Fungal Infections,0.9999,True
+../datasets/real/labelled/Fungal Infections/Fungal1_png.rf.315fe72949a94f01bd414c20a64b0586.jpg,Fungal Infections,Fungal Infections,0.9994,True
+../datasets/real/labelled/Fungal Infections/fungal2_jpg.rf.7744a7f33b3e037a8a7cf60aa4d268be.jpg,Fungal Infections,Fungal Infections,0.999,True
+../datasets/real/labelled/Fungal Infections/fung4_jpg.rf.8f4c21e3ba039c6bd836b8a6f2057281.jpg,Fungal Infections,Fungal Infections,0.9988,True
+../datasets/real/labelled/Hypersensitivity/B9781416056638000070_f007-014-9781416056638.jpg,Hypersensitivity,Hypersensitivity,0.9989,True
+../datasets/real/labelled/Hypersensitivity/B9781416056638000070_f007-025-9781416056638.jpg,Hypersensitivity,Hypersensitivity,0.9986,True
+../datasets/real/labelled/Hypersensitivity/B9781416056638000070_f007-015-9781416056638.jpg,Hypersensitivity,Hypersensitivity,0.9944,True
+../datasets/real/labelled/Hypersensitivity/B9781416056638000070_f007-024-9781416056638.jpg,Hypersensitivity,Hypersensitivity,0.9916,True
+../datasets/real/labelled/Hypersensitivity/B9781416056638000070_f007-038-9781416056638.jpg,Hypersensitivity,Hypersensitivity,0.9993,True
+../datasets/real/labelled/Hypersensitivity/B9781416056638000070_f007-016-9781416056638.jpg,Hypersensitivity,Hypersensitivity,1.0,True
+../datasets/real/labelled/Hypersensitivity/B9781416056638000070_f007-027-9781416056638.jpg,Hypersensitivity,Hypersensitivity,0.9904,True
+../datasets/real/labelled/Hypersensitivity/B9781416056638000070_f007-013-9781416056638.jpg,Hypersensitivity,Hypersensitivity,0.9995,True
+../datasets/real/labelled/Hypersensitivity/B9781416056638000070_f007-026-9781416056638.jpg,Hypersensitivity,Healthy,0.9632,False
+../datasets/real/labelled/Hypersensitivity/B9781416056638000070_f007-036-9781416056638.jpg,Hypersensitivity,Hypersensitivity,0.9993,True
+../datasets/real/labelled/Hypersensitivity/B9781416056638000070_f007-037-9781416056638.jpg,Hypersensitivity,Hypersensitivity,0.9993,True
+../datasets/real/labelled/Hypersensitivity/B9781416056638000070_f007-035-9781416056638.jpg,Hypersensitivity,Hypersensitivity,0.9945,True
+../datasets/real/labelled/Dermatitis/bacc1_jpg.rf.0c5595790601e8855cab203843db6628.jpg,Dermatitis,Fungal Infections,0.9113,False
+../datasets/real/labelled/Dermatitis/Bacteria3_png.rf.c87c9b75ff9d1836d2c96bdb934b0abc.jpg,Dermatitis,Dermatitis,0.9982,True
+../datasets/real/labelled/Dermatitis/Bacterial_Image_2_jpg.rf.6685f2d528b09526b1782d6c3ed630c2.jpg,Dermatitis,Dermatitis,0.9988,True
+../datasets/real/labelled/Dermatitis/bacc1_jpg.rf.20750919c0b0ec92a495abfd6ff4cb20.jpg,Dermatitis,Dermatitis,0.9972,True
+../datasets/real/labelled/Dermatitis/Bacterial_2_jpg.rf.e05b1fba4362d3924b69b3867caa11da.jpg,Dermatitis,Dermatitis,1.0,True
+../datasets/real/labelled/Dermatitis/bacc2_jpg.rf.c787f922e95f4e1b9aee8ee71def9797.jpg,Dermatitis,Dermatitis,0.9985,True
+../datasets/real/labelled/Dermatitis/Bacterial_1_png.rf.7e301129bb0a6c98ef5606f4c3eba591.jpg,Dermatitis,Dermatitis,0.9997,True
+../datasets/real/labelled/Dermatitis/bac2_jpg.rf.df80a0dd73b4314baefc3a0db0cf6de9.jpg,Dermatitis,Dermatitis,0.9999,True
+../datasets/real/labelled/Dermatitis/Bacteria3_png.rf.399d3cc1019e2c019ec4d7cf6f6f3a2e.jpg,Dermatitis,Dermatitis,0.9981,True
+../datasets/real/labelled/Dermatitis/Bacterial_Image_2_jpg.rf.b5407033a2aef0fcdd9f72a94e09ea6c.jpg,Dermatitis,Dermatitis,0.9993,True
+../datasets/real/labelled/Dermatitis/bac4_png.rf.d5c6154580356c25885593026f7372f4.jpg,Dermatitis,Dermatitis,0.8955,True
+../datasets/real/labelled/Dermatitis/bac2_jpg.rf.7c0cb25e17ed14b81f79d441ba8bcc78.jpg,Dermatitis,Dermatitis,0.9986,True
+../datasets/real/labelled/Dermatitis/bac1_jpg.rf.7f8d7c38fca8660da74e7f4def729511.jpg,Dermatitis,Dermatitis,0.9993,True
+../datasets/real/labelled/Dermatitis/bac1_jpg.rf.5311e7813084cdc109ec65b443bedd3c.jpg,Dermatitis,Dermatitis,0.9992,True
+../datasets/real/labelled/Dermatitis/bacterial_Image_1_jpg.rf.f81b6d7ab44e52027c73bcf08312969d.jpg,Dermatitis,Dermatitis,0.9988,True
+../datasets/real/labelled/Dermatitis/Bacteria4_png.rf.1eeb1d0161eb2b6a6b5c33e4fd862d63.jpg,Dermatitis,Dermatitis,0.9965,True
+../datasets/real/labelled/Dermatitis/Bacteria4_png.rf.eb5f1faa34e1830c63eae76365a725ea.jpg,Dermatitis,Dermatitis,0.9966,True
+../datasets/real/labelled/Dermatitis/bacc2_jpg.rf.80fccb9e00099853407a1a7b1e2f7d97.jpg,Dermatitis,Dermatitis,0.9772,True
+../datasets/real/labelled/Dermatitis/Bacterial_Image_2_jpg.rf.04134948f0b2b75e1de9f6d9070bc2c6.jpg,Dermatitis,Dermatitis,0.9979,True
+../datasets/real/labelled/Dermatitis/Bacteria4_png.rf.2d5130bd911d756a4efc1e364b21dc9c.jpg,Dermatitis,Fungal Infections,0.7232,False
+../datasets/real/labelled/Dermatitis/bacterial_Image_1_jpg.rf.f5236c4b5b2eeb1383ed9667d012d8b2.jpg,Dermatitis,Hypersensitivity,0.8588,False
+../datasets/real/labelled/Dermatitis/bac4_png.rf.a545b39815911af7dc2215a55e48987b.jpg,Dermatitis,Dermatitis,0.9978,True
+../datasets/real/labelled/Dermatitis/atopic_dermatitis_in_cats_causes_symptoms_and_treatment_4206.webp,Dermatitis,Dermatitis,0.9972,True
+../datasets/real/labelled/Dermatitis/bacterial_Image_1_jpg.rf.bca50760f3bcdb5e444609138d9d14ea.jpg,Dermatitis,Dermatitis,0.9978,True
+../datasets/real/labelled/Dermatitis/Bacteria3_png.rf.a1cd212c26b24e427161f4e18c5658d9.jpg,Dermatitis,Dermatitis,0.9968,True
+../datasets/real/labelled/Dermatitis/bac2_jpg.rf.f5bc5fa513877fcbe3340d7baa1e0313.jpg,Dermatitis,Dermatitis,0.9986,True
+../datasets/real/labelled/Dermatitis/bacc1_jpg.rf.b71515d9d9e62376e66a9ecbd64d008e.jpg,Dermatitis,Dermatitis,0.995,True
+../datasets/real/labelled/Dermatitis/bac1_jpg.rf.bd840dfe25e6a88329f2366cb4b4b692.jpg,Dermatitis,Dermatitis,0.9997,True
