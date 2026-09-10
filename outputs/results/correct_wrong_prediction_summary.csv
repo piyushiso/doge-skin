@@ -1,4 +1,4 @@
 Model,Total Images,Correct Predictions,Wrong Predictions,Correct %,Wrong %
 Raw Pixels + Random Forest,433,274,159,63.28,36.72
 CNN Features + MLP,433,397,36,91.69,8.31
-MobileNetV2 Transfer Learning,433,382,51,88.22,11.78
+MobileNetV2 Transfer Learning,433,383,50,88.45,11.55
