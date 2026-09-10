@@ -82,3 +82,7 @@ lightweight/doge_skin.html
 ```text
 report/A Ruff Case of Classification- Raw Pixels vs. Deep CNN Features for Dog Skin Conditions - Piyush Lal Shrestha (2026).pdf
 ```
+
+## GitHub Repository
+
+**Link:** [doge-skin](https://github.com/piyushiso/doge-skin)
