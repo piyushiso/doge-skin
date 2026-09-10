@@ -1,4 +1,4 @@
-# **A Ruff Case of Classification**
+# **DogeSkin: A Ruff Case of Classification**
 
 ## **Raw Pixels vs. Deep CNN Features for Dog Skin Conditions**
 
