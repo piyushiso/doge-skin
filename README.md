@@ -51,6 +51,8 @@ doge-skin/
 │   ├── results/
 │   ├── models/
 │   └── figures/
+├── papers/
+├── report/
 └── README.md
 ```
 
@@ -73,4 +75,10 @@ For the best viewing experience, open:
 
 ```text
 lightweight/doge_skin.html
+```
+
+## Access Report
+
+```text
+report/A Ruff Case of Classification- Raw Pixels vs. Deep CNN Features for Dog Skin Conditions - Piyush Lal Shrestha (2026).pdf
 ```
